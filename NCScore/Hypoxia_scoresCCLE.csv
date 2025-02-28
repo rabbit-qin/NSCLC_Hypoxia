@@ -1,0 +1,124 @@
+Buffa,Winter,Ragnum
+G41700.ABC.1.5.genes.results_count,-18, -5,  0
+G27321.BEN.1.genes.results_count, -4,-25, -4
+G20486.Calu.1.2.genes.results_count, -6,-19,-12
+G27323.Calu.3.1.genes.results_count,-12,  3, -4
+G27328.Calu.6.1.genes.results_count,-6,-7, 4
+G27316.ChaGo.K.1.1.genes.results_count,-14, -9, -4
+G27373.COR.L105.1.genes.results_count, 4,17, 2
+G41697.COR.L23.5.genes.results_count,-2,23,-8
+G27313.DV.90.1.genes.results_count,-10,-15, -6
+G27327.EBC.1.1.genes.results_count,2,5,8
+G20494.HARA.2.genes.results_count, 4,13,12
+G28865.HCC4006.3.genes.results_count, 2, 5,-8
+G28866.HCC.78.3.genes.results_count,  2, -7,-10
+G28864.HCC.95.3.genes.results_count, 2,11,10
+G41716.IA.LM.5.genes.results_count,12,15,-8
+G20493.KNS.62.2.genes.results_count,-18, -9,-10
+G28061.LCLC.103H.1.genes.results_count,-10,  3,-14
+G28021.LU99.1.genes.results_count,14, 1, 4
+G28592.NCI.H1155.1.genes.results_count,-12,-33, 12
+G25209.NCI.H1299.1.genes.results_count, -4,-17,  6
+G28605.NCI.H1355.1.genes.results_count, 8, 7,18
+G28570.NCI.H1385.1.genes.results_count,-12,-33, -8
+G25215.NCI.H1437.1.genes.results_count,-14, -9,  2
+G41703.NCI.H1568.5.genes.results_count,-2,-1,-6
+G28582.NCI.H1573.1.genes.results_count,-6,-5,10
+G28549.NCI.H1623.1.genes.results_count, -8,-15, 10
+G28564.NCI.H1648.1.genes.results_count,16,29, 2
+G25244.NCI.H1650.1.genes.results_count,18,13,14
+G25216.NCI.H1666.1.genes.results_count,-14,  7,-18
+G28561.NCI.H1693.1.genes.results_count, 6,-7,10
+G28539.NCI.H1755.1.genes.results_count,20, 3, 4
+G28538.NCI.H1781.1.genes.results_count,-18, -9,  4
+G26184.NCI.H1792.2.genes.results_count,-16,-19,-12
+G28597.NCI.H1869.1.genes.results_count, 6,-1, 2
+G28588.NCI.H1915.1.genes.results_count,18,21, 2
+G28598.NCI.H1944.1.genes.results_count,12,11,16
+G41741.NCI.H2009.5.genes.results_count,20, 9,10
+G28557.NCI.H2023.1.genes.results_count,30,19,18
+G28611.NCI.H2030.1.genes.results_count, 8,11, 6
+G28558.NCI.H2087.1.genes.results_count,16, 3, 4
+G28533.NCI.H2106.1.genes.results_count,-20,-23, -2
+G28608.NCI.H2110.1.genes.results_count,-18,-25, -2
+G41673.NCI.H2122.5.genes.results_count,-10, -9,-12
+G28566.NCI.H2126.1.genes.results_count,-20,-13,-14
+G41734.NCI.H226.5.genes.results_count,-2,-3,-6
+G28594.NCI.H2291.1.genes.results_count,18,13, 0
+G28612.NCI.H2405.1.genes.results_count,0,1,0
+G28547.NCI.H292.1.genes.results_count,-10,  3, -4
+G30601.NCI.H441.1.genes.results_count, 0,-1, 0
+G41690.NCI.H460.5.genes.results_count, 4, 1,14
+G28604.NCI.H647.1.genes.results_count,18,17, 4
+G25236.NCI.H650.1.genes.results_count, -6,-21,-14
+G25212.NCI.H661.1.genes.results_count,-16,-23,  4
+G26203.NCI.H838.2.genes.results_count,14,15, 4
+G27527.RERF.LC.AI.2.genes.results_count,20,29,16
+G27245.SK.MES.1.1.genes.results_count, -2, -9,-16
+G30580.T3M.10.1.genes.results_count,-24,-25,-16
+G20499.A549.2.genes.results_count, 0,-3, 0
+G27338.CAL.12T.1.genes.results_count, 0,17, 0
+G27298.EKVX.1.genes.results_count,-2, 5,-4
+G30578.EPLC.272H.1.genes.results_count,24,27,10
+G27340.HCC.1171.1.genes.results_count,-10, 17,  2
+G27391.HCC.1195.1.genes.results_count,20,21, 6
+G27303.HCC.1359.1.genes.results_count,20,21, 8
+G27304.HCC.1438.1.genes.results_count, 6,-7,-6
+G20483.HCC.15.2.genes.results_count, -6,-25,  2
+G27305.HCC.1588.1.genes.results_count,-26,-31,-20
+G27306.HCC.1833.1.genes.results_count,-10,-29, -2
+G28887.HCC.2108.3.genes.results_count,12, 1, 8
+G28817.HCC.2279.3.genes.results_count,  2,-11,-22
+G28870.HCC2935.3.genes.results_count,-28,-15,-12
+G28840.HCC.366.3.genes.results_count, 6,13, 0
+G20504.HCC.44.2.genes.results_count,-22,  7,-18
+G26194.HCC827.2.genes.results_count,30,43,10
+G28849.HOP.62.3.genes.results_count, 2,-7, 0
+G28848.HOP.92.3.genes.results_count,  0, -7,-12
+G28015.LC.1F.1.genes.results_count, -4, -7,-14
+G28041.LCLC.97TM1.1.genes.results_count,-26,-27,-16
+G26263.LK.2.2.genes.results_count,-20,-37,  0
+G28088.LOU.NH91.1.genes.results_count,-14,-23,-16
+G28079.LUDLU.1.1.genes.results_count, 8, 7,10
+G28047.LXF.289.1.genes.results_count,-20,-11,-18
+G28537.NCI.H1395.1.genes.results_count, 6, 7,-6
+G41740.NCI.H1435.5.genes.results_count,-18,-25,  0
+G28590.NCI.H1563.1.genes.results_count, 2, 1,-4
+G41704.NCI.H1581.5.genes.results_count,-14, -9, 12
+G25240.NCI.H1651.3.genes.results_count, -4,-25,  0
+G28591.NCI.H1703.1.genes.results_count, 6,-7, 4
+G28585.NCI.H1734.1.genes.results_count, 2,-1,12
+G28584.NCI.H1793.1.genes.results_count,14,19, 4
+G28553.NCI.H1838.1.genes.results_count,10,25, 4
+G26264.NCI.H1975.2.genes.results_count,10,13, 0
+G28619.NCI.H2073.1.genes.results_count,24,35,-8
+G28548.NCI.H2085.1.genes.results_count,16,17, 8
+G25237.NCI.H2170.1.genes.results_count,-14,-21, -4
+G28559.NCI.H2172.1.genes.results_count, 4, 3,10
+G28616.NCI.H2228.1.genes.results_count,-14, -1, -8
+G26197.NCI.H23.2.genes.results_count,28,19,10
+G41730.NCI.H2342.5.genes.results_count,-14,-11,-12
+G28579.NCI.H2347.1.genes.results_count,18,23, 8
+G28602.NCI.H2444.1.genes.results_count,34,35, 8
+G28593.NCI.H322.1.genes.results_count,12,33,22
+G28554.NCI.H3255.1.genes.results_count,12,21, 6
+G28583.NCI.H358.1.genes.results_count,18,27,16
+G28617.NCI.H520.1.genes.results_count,  2,-15, 16
+G25225.NCI.H522.1.genes.results_count,-22,-25, -2
+G28569.NCI.H596.1.genes.results_count,-2, 5,-8
+G28534.NCI.H810.1.genes.results_count, -6,-13,  8
+G28546.NCI.H854.1.genes.results_count,-18,-31,-10
+G27293.PC.14.1.genes.results_count, 4,21, 0
+G27509.RERF.LC.Ad1.2.genes.results_count, 0,-5, 8
+G27541.RERF.LC.Ad2.2.genes.results_count, 4,17,-8
+G27506.RERF.LC.KJ.2.genes.results_count,-24,-19,-14
+G27281.RERF.LC.MS.1.genes.results_count,18,15, 0
+G27491.RERF.LC.Sq1.2.genes.results_count,16,25, 8
+G27452.SK.LU.1.2.genes.results_count,20, 9, 6
+G30647.Sq.1.1.genes.results_count, 2,-1, 2
+G30620.SW_1573.1.genes.results_count,-36,-35,-18
+G27246.SW_900.1.genes.results_count,-8, 9, 0
+G41698.MOR_CPR.5.genes.results_count,-18,-27, -8
+G28075.LU65.1.genes.results_count,-10,-21, -8
+G41811.EKVX.1.genes.results_count,-24, -5, -6
+G41807.HOP.62.1.genes.results_count,18,-3,10
