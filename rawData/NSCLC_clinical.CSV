@@ -1,0 +1,1027 @@
+,ajcc_pathologic_stage,clinical_stage,days_to_last_follow_up,primary_diagnosis,ajcc_pathologic_t,ajcc_pathologic_n,ajcc_pathologic_m,race,gender,vital_status,age_at_index,days_to_death,treatments_pharmaceutical_treatment_or_therapy,treatments_radiation_treatment_or_therapy,disease
+TCGA-46-3767,Stage IA,1,396,"Squamous cell carcinoma, NOS",T1a,N0,M0,white,male,Alive,76,NA,not reported,not reported,LUSC
+TCGA-66-2780,Stage IB,1,NA,"Squamous cell carcinoma, NOS",T2,N0,M0,not reported,male,Dead,65,366,not reported,not reported,LUSC
+TCGA-90-7964,Stage IB,1,428,"Squamous cell carcinoma, NOS",T2a,N0,MX,white,male,Alive,70,NA,no,no,LUSC
+TCGA-22-5478,Stage IB,1,24,"Squamous cell carcinoma, NOS",T2a,N0,M0,not reported,male,Dead,79,24,no,no,LUSC
+TCGA-94-7557,Stage IB,1,NA,"Squamous cell carcinoma, NOS",T2,N0,M0,black or african american,male,Dead,73,5,no,no,LUSC
+TCGA-18-3416,Stage IIB,2,956,"Squamous cell carcinoma, NOS",T2,N1,M0,not reported,male,Dead,83,973,no,no,LUSC
+TCGA-22-5492,Stage IIIA,3,506,"Squamous cell carcinoma, NOS",T2a,N2,M0,not reported,female,Dead,73,506,no,not reported,LUSC
+TCGA-77-8139,Stage IIB,2,3166,"Squamous cell carcinoma, NOS",T3,N0,M0,not reported,male,Alive,72,NA,no,no,LUSC
+TCGA-56-7579,Stage IIIA,3,44,"Squamous cell carcinoma, NOS",T3,N1,M0,white,male,Dead,61,951,yes,yes,LUSC
+TCGA-94-8490,Stage IIB,2,153,"Squamous cell carcinoma, NOS",T3,N0,M0,white,male,Alive,70,NA,not reported,no,LUSC
+TCGA-33-AASD,Stage IA,1,NA,"Squamous cell carcinoma, NOS",T1,N0,MX,black or african american,male,Dead,83,2249,no,no,LUSC
+TCGA-63-A5MU,Stage IIB,2,NA,"Squamous cell carcinoma, NOS",T2b,N1,M0,not reported,male,Dead,48,NA,yes,no,LUSC
+TCGA-39-5021,Stage IB,1,2086,"Squamous cell carcinoma, NOS",T2a,N0,M0,white,male,Dead,70,2086,no,no,LUSC
+TCGA-NC-A5HL,Stage IIA,2,NA,"Squamous cell carcinoma, NOS",T2b,N0,M0,white,male,Dead,73,88,no,no,LUSC
+TCGA-22-4605,Stage IB,1,NA,"Squamous cell carcinoma, large cell, nonkeratinizing, NOS",T2,N0,M0,not reported,female,Dead,78,974,no,yes,LUSC
+TCGA-34-8456,Stage IIA,2,804,"Squamous cell carcinoma, NOS",T2a,N1,M0,white,female,Alive,71,NA,no,no,LUSC
+TCGA-63-7022,Stage IA,1,2073,"Squamous cell carcinoma, NOS",T1,N0,M0,not reported,female,Alive,NA,NA,no,no,LUSC
+TCGA-85-7696,Stage IA,1,1111,"Squamous cell carcinoma, NOS",T1,N0,M0,white,male,Alive,64,NA,no,no,LUSC
+TCGA-18-3421,Stage IB,1,2645,"Squamous cell carcinoma, NOS",T2,N0,M0,white,male,Alive,65,NA,no,no,LUSC
+TCGA-77-8145,Stage IIIB,3,NA,"Squamous cell carcinoma, NOS",T4,N1,M0,not reported,male,Dead,73,212,no,yes,LUSC
+TCGA-21-1078,Stage IB,1,474,"Squamous cell carcinoma, NOS",T2,N0,M0,white,male,Dead,77,474,no,no,LUSC
+TCGA-85-8072,Stage IA,1,932,"Squamous cell carcinoma, NOS",T1a,N0,M0,white,male,Alive,60,NA,no,no,LUSC
+TCGA-58-8390,Stage IIA,2,911,"Squamous cell carcinoma, NOS",T2b,N0,M0,white,male,Alive,70,NA,no,no,LUSC
+TCGA-34-5929,Stage IB,1,NA,"Squamous cell carcinoma, NOS",T2,N0,M0,white,female,Dead,78,151,no,no,LUSC
+TCGA-56-8304,Stage IA,1,106,"Squamous cell carcinoma, NOS",T1b,N0,MX,white,female,Alive,73,NA,not reported,not reported,LUSC
+TCGA-90-A4ED,Stage IB,1,615,"Squamous cell carcinoma, NOS",T2a,N0,MX,white,male,Alive,69,NA,no,no,LUSC
+TCGA-39-5030,Stage IIIA,3,59,"Squamous cell carcinoma, NOS",T2a,N2,M0,asian,female,Dead,81,59,no,no,LUSC
+TCGA-56-A5DS,Stage IB,1,8,"Squamous cell carcinoma, NOS",T2a,N0,MX,white,female,Alive,72,NA,not reported,not reported,LUSC
+TCGA-92-7340,Stage IIA,2,82,"Squamous cell carcinoma, NOS",T2a,N1,MX,white,female,Alive,45,NA,yes,no,LUSC
+TCGA-98-A53J,Stage IB,1,630,"Squamous cell carcinoma, NOS",T2a,N0,M0,white,male,Alive,77,NA,no,no,LUSC
+TCGA-85-6560,Stage IIA,2,1259,"Squamous cell carcinoma, NOS",T1b,N1,M0,white,male,Alive,59,NA,yes,no,LUSC
+TCGA-56-7730,Stage IIA,2,6,"Squamous cell carcinoma, NOS",T2b,N0,M0,white,male,Dead,73,198,yes,yes,LUSC
+TCGA-66-2794,Stage IIIB,3,1645,"Squamous cell carcinoma, NOS",T4,N2,M0,not reported,male,Alive,64,NA,no,yes,LUSC
+TCGA-LA-A446,Stage IA,1,401,"Squamous cell carcinoma, NOS",T1b,N0,MX,white,male,Alive,68,NA,no,no,LUSC
+TCGA-85-8048,Stage IA,1,765,"Squamous cell carcinoma, NOS",T1,N0,M0,white,male,Alive,62,NA,no,no,LUSC
+TCGA-66-2782,Stage IIB,2,NA,"Squamous cell carcinoma, NOS",T3,N0,M0,not reported,male,Dead,71,365,yes,no,LUSC
+TCGA-66-2791,Stage IIIB,3,NA,"Squamous cell carcinoma, NOS",T2,N3,M0,not reported,male,Dead,66,153,not reported,not reported,LUSC
+TCGA-34-2605,Stage IIIB,3,881,"Squamous cell carcinoma, NOS",T4,N1,M0,white,male,Dead,76,881,yes,no,LUSC
+TCGA-18-4721,Stage IA,1,4694,"Squamous cell carcinoma, NOS",T1,N0,M0,white,male,Alive,74,NA,no,no,LUSC
+TCGA-O2-A52Q,Stage III,3,NA,"Squamous cell carcinoma, NOS",T3,N1,MX,white,female,Dead,44,113,no,yes,LUSC
+TCGA-46-3768,Stage IIIA,3,4,"Squamous cell carcinoma, NOS",T3,N1,M0,white,male,Dead,58,299,yes,yes,LUSC
+TCGA-63-A5MJ,Stage IIB,2,1824,"Squamous cell carcinoma, NOS",T2,N1,M0,not reported,male,Alive,54,NA,yes,no,LUSC
+TCGA-68-7757,Stage IA,1,211,"Squamous cell carcinoma, NOS",T1b,N0,MX,white,male,Alive,74,NA,no,no,LUSC
+TCGA-22-1000,Stage IB,1,NA,"Squamous cell carcinoma, NOS",T2,N0,M0,white,male,Dead,76,454,no,no,LUSC
+TCGA-34-8455,Stage IV,4,NA,"Squamous cell carcinoma, NOS",T4,N0,M1a,white,male,Dead,67,123,no,no,LUSC
+TCGA-85-7698,Stage IA,1,952,"Squamous cell carcinoma, NOS",T1b,N0,M0,white,male,Alive,48,NA,yes,no,LUSC
+TCGA-77-A5GB,Stage IB,1,NA,"Squamous cell carcinoma, keratinizing, NOS",T2a,NX,M0,not reported,male,Dead,90,0,no,no,LUSC
+TCGA-43-8118,Stage IA,1,NA,"Squamous cell carcinoma, NOS",T1b,N0,M0,white,female,Dead,55,89,yes,no,LUSC
+TCGA-77-A5FZ,Stage IIIB,3,NA,Papillary squamous cell carcinoma,T4,N0,M0,not reported,male,Dead,64,3838,no,no,LUSC
+TCGA-43-8116,Stage IA,1,358,"Squamous cell carcinoma, NOS",T1b,N0,M0,white,male,Alive,73,NA,no,no,LUSC
+TCGA-6A-AB49,Stage IB,1,NA,"Squamous cell carcinoma, NOS",T2,N0,MX,black or african american,female,Dead,73,NA,no,no,LUSC
+TCGA-21-5786,Stage IB,1,1032,"Squamous cell carcinoma, NOS",T2,N0,M0,white,male,Alive,64,NA,no,no,LUSC
+TCGA-22-4595,Stage IIIA,3,734,"Squamous cell carcinoma, NOS",T3,N2,NA,white,male,Dead,57,734,no,yes,LUSC
+TCGA-MF-A522,Stage IB,1,83,"Squamous cell carcinoma, keratinizing, NOS",T2a,N0,MX,white,male,Dead,54,360,yes,yes,LUSC
+TCGA-56-8504,Stage IB,1,510,"Squamous cell carcinoma, NOS",T2a,N0,MX,white,male,Alive,74,NA,no,no,LUSC
+TCGA-66-2786,Stage IA,1,790,"Squamous cell carcinoma, NOS",T1,N0,M0,not reported,female,Alive,68,NA,no,no,LUSC
+TCGA-O2-A52V,Stage II,2,NA,"Squamous cell carcinoma, NOS",T3,N0,MX,black or african american,female,Dead,75,1335,no,yes,LUSC
+TCGA-79-5596,Stage IIIA,3,NA,"Squamous cell carcinoma, NOS",T3,N1,M0,not reported,male,Alive,NA,NA,no,no,LUSC
+TCGA-43-3394,Stage IB,1,822,"Squamous cell carcinoma, NOS",T2a,N0,M0,black or african american,male,Dead,52,1190,yes,no,LUSC
+TCGA-J1-A4AH,Stage IIA,2,581,"Squamous cell carcinoma, NOS",T2b,N0,MX,white,male,Alive,70,NA,yes,no,LUSC
+TCGA-66-2742,Stage IV,4,641,"Squamous cell carcinoma, NOS",T2,N1,M1,not reported,male,Alive,70,NA,no,no,LUSC
+TCGA-85-A4QQ,Stage IB,1,553,"Squamous cell carcinoma, keratinizing, NOS",T2a,N0,M0,white,male,Dead,68,927,no,no,LUSC
+TCGA-43-6773,Stage IIB,2,NA,"Squamous cell carcinoma, NOS",T2,N1,MX,white,male,Dead,76,116,no,no,LUSC
+TCGA-56-8626,Stage IA,1,17,"Squamous cell carcinoma, NOS",T1a,N0,MX,white,male,Dead,59,302,no,no,LUSC
+TCGA-33-AAS8,Stage IA,1,NA,"Squamous cell carcinoma, NOS",T1,N0,MX,black or african american,female,Dead,59,1114,yes,no,LUSC
+TCGA-O2-A5IB,Stage III,3,NA,"Squamous cell carcinoma, NOS",T3,N1,MX,white,female,Dead,71,340,no,no,LUSC
+TCGA-51-4079,Stage IB,1,NA,"Squamous cell carcinoma, NOS",T2,N0,NA,black or african american,female,Dead,73,12,no,no,LUSC
+TCGA-43-6143,Stage IB,1,699,Basaloid squamous cell carcinoma,T2,N0,M0,white,male,Alive,70,NA,yes,no,LUSC
+TCGA-96-7545,Stage IA,1,1344,"Squamous cell carcinoma, NOS",T1,N0,MX,white,male,Dead,73,1736,no,no,LUSC
+TCGA-90-A4EE,Stage IIA,2,688,"Squamous cell carcinoma, NOS",T2a,N1,MX,white,male,Alive,53,NA,yes,no,LUSC
+TCGA-66-2778,Stage IIIB,3,578,"Squamous cell carcinoma, NOS",T2,N3,M0,not reported,female,Alive,68,NA,yes,yes,LUSC
+TCGA-37-4129,Stage IA,1,242,"Squamous cell carcinoma, NOS",T1b,N0,M0,white,female,Alive,52,NA,no,no,LUSC
+TCGA-98-8022,Stage IA,1,224,"Squamous cell carcinoma, NOS",T1a,N0,M0,white,male,Dead,61,933,no,no,LUSC
+TCGA-43-A474,Stage IIA,2,353,"Squamous cell carcinoma, NOS",T2b,N0,M0,white,male,Alive,66,NA,yes,no,LUSC
+TCGA-66-2789,Stage IIIB,3,NA,"Squamous cell carcinoma, NOS",T1,N3,M0,not reported,male,Dead,73,123,not reported,not reported,LUSC
+TCGA-94-8491,Stage IIA,2,810,"Squamous cell carcinoma, NOS",T2a,N1,M0,white,male,Alive,73,NA,yes,no,LUSC
+TCGA-39-5016,Stage IIA,2,3850,Basaloid squamous cell carcinoma,T2a,N1,M0,white,male,Alive,44,NA,no,no,LUSC
+TCGA-85-8276,Stage IIA,2,1050,"Squamous cell carcinoma, NOS",T1b,N1,M0,white,male,Alive,62,NA,yes,no,LUSC
+TCGA-60-2722,Stage IIB,2,908,"Squamous cell carcinoma, NOS",T2,N1,M0,white,male,Alive,66,NA,yes,no,LUSC
+TCGA-56-A4BW,Stage IIA,2,585,"Squamous cell carcinoma, NOS",T2a,N1,M0,white,male,Alive,55,NA,yes,no,LUSC
+TCGA-18-3414,Stage IV,4,NA,"Squamous cell carcinoma, NOS",T4,N1,M1,asian,male,Dead,73,716,no,no,LUSC
+TCGA-52-7809,Stage IB,1,NA,Basaloid squamous cell carcinoma,T2,N0,M0,white,male,Dead,74,166,not reported,not reported,LUSC
+TCGA-43-6771,Stage IB,1,NA,"Squamous cell carcinoma, NOS",T2,N0,MX,white,male,Dead,85,166,no,no,LUSC
+TCGA-22-5483,Stage IIA,2,573,"Squamous cell carcinoma, NOS",T1a,N1,M0,white,male,Dead,74,573,yes,no,LUSC
+TCGA-77-7335,Stage IIIB,3,NA,"Squamous cell carcinoma, keratinizing, NOS",T4,N2,M0,white,female,Dead,62,2133,no,no,LUSC
+TCGA-56-5897,Stage IA,1,378,"Squamous cell carcinoma, NOS",T1b,N0,MX,white,male,Alive,74,NA,no,no,LUSC
+TCGA-85-A4CL,Stage IA,1,781,"Squamous cell carcinoma, NOS",T1b,N0,M0,white,male,Dead,65,921,no,no,LUSC
+TCGA-NC-A5HH,Stage IA,1,37,Basaloid squamous cell carcinoma,T1,N0,M0,white,male,Alive,53,NA,no,no,LUSC
+TCGA-21-1079,Stage IIIA,3,965,"Squamous cell carcinoma, NOS",T3,N0,M0,white,male,Dead,71,965,no,no,LUSC
+TCGA-77-8143,Stage IIIA,3,NA,"Squamous cell carcinoma, NOS",T2,N2,M0,not reported,male,Dead,76,803,no,yes,LUSC
+TCGA-56-8307,Stage IIB,2,818,"Squamous cell carcinoma, NOS",T3,N0,M0,white,female,Alive,55,NA,no,no,LUSC
+TCGA-85-A512,Stage IIA,2,465,"Squamous cell carcinoma, NOS",T1b,N1,M0,white,male,Alive,46,NA,yes,no,LUSC
+TCGA-56-7580,Stage IB,1,925,"Squamous cell carcinoma, NOS",T2a,N0,M0,white,male,Alive,84,NA,no,no,LUSC
+TCGA-22-5472,Stage IB,1,NA,"Squamous cell carcinoma, NOS",T2a,N0,M0,white,male,Dead,67,1975,no,no,LUSC
+TCGA-39-5034,Stage IIB,2,1107,"Squamous cell carcinoma, NOS",T3,N0,M0,white,female,Dead,73,1107,no,no,LUSC
+TCGA-66-2766,Stage IIIA,3,31,"Squamous cell carcinoma, NOS",T2,N2,M0,not reported,male,Alive,54,NA,not reported,not reported,LUSC
+TCGA-22-1017,Stage IA,1,NA,"Squamous cell carcinoma, NOS",T1,N0,M0,white,male,Dead,62,1485,yes,yes,LUSC
+TCGA-85-A510,Stage IIB,2,482,"Squamous cell carcinoma, NOS",T2b,N1,M0,white,female,Alive,74,NA,no,no,LUSC
+TCGA-22-4596,Stage IB,1,17,"Squamous cell carcinoma, NOS",T1b,N0,M0,white,female,Dead,69,17,no,no,LUSC
+TCGA-56-A4BY,Stage IB,1,31,"Squamous cell carcinoma, keratinizing, NOS",T2a,N0,MX,white,male,Dead,66,543,no,yes,LUSC
+TCGA-60-2726,Stage IIA,2,358,"Squamous cell carcinoma, NOS",T2,N1,M0,white,male,Dead,56,358,no,no,LUSC
+TCGA-60-2706,Stage IA,1,2820,"Squamous cell carcinoma, NOS",T1,N0,M0,white,male,Alive,58,NA,no,no,LUSC
+TCGA-77-6843,Stage IIA,2,NA,"Squamous cell carcinoma, NOS",T1,N1,M0,white,male,Dead,74,2224,no,no,LUSC
+TCGA-58-8388,Stage IB,1,378,Basaloid squamous cell carcinoma,T2a,N0,M0,white,male,Dead,60,412,no,no,LUSC
+TCGA-68-7756,Stage IIIA,3,202,"Squamous cell carcinoma, NOS",T4,N1,MX,white,male,Alive,84,NA,yes,yes,LUSC
+TCGA-63-A5MB,Stage IB,1,3123,"Squamous cell carcinoma, NOS",T2,N0,M0,not reported,male,Alive,62,NA,yes,no,LUSC
+TCGA-85-A4QR,Stage IB,1,600,"Squamous cell carcinoma, NOS",T2a,N0,M0,white,male,Alive,67,NA,no,no,LUSC
+TCGA-18-3412,Stage IB,1,NA,"Squamous cell carcinoma, NOS",T2,N0,M0,white,male,Dead,52,345,yes,no,LUSC
+TCGA-85-8351,Stage IIA,2,510,"Squamous cell carcinoma, NOS",T2a,N1,M0,white,male,Alive,72,NA,yes,no,LUSC
+TCGA-85-7697,Stage IIB,2,1063,"Squamous cell carcinoma, NOS",T3,N0,M0,white,male,Alive,49,NA,yes,no,LUSC
+TCGA-56-A4ZJ,Stage IA,1,640,"Squamous cell carcinoma, large cell, nonkeratinizing, NOS",T1a,N0,M0,white,female,Alive,75,NA,no,no,LUSC
+TCGA-60-2695,Stage IB,1,642,Basaloid squamous cell carcinoma,T2,N0,M0,white,female,Alive,74,NA,no,no,LUSC
+TCGA-66-2785,Stage IB,1,60,"Squamous cell carcinoma, NOS",T2,N0,M0,not reported,male,Alive,65,NA,not reported,not reported,LUSC
+TCGA-37-A5EM,Stage II,2,867,"Squamous cell carcinoma, NOS",T2,N0,M0,white,male,Alive,49,NA,no,no,LUSC
+TCGA-37-A5EN,Stage IIIB,3,660,"Squamous cell carcinoma, NOS",T4,N2,M0,white,male,Alive,59,NA,no,no,LUSC
+TCGA-21-5787,Stage IIIA,3,329,"Squamous cell carcinoma, NOS",T2,N2,M0,black or african american,male,Dead,65,329,no,yes,LUSC
+TCGA-85-A5B5,Stage IA,1,111,"Squamous cell carcinoma, NOS",T1b,N0,M0,white,male,Alive,58,NA,no,no,LUSC
+TCGA-18-3410,Stage IIB,2,NA,"Squamous cell carcinoma, NOS",T3,N0,M0,not reported,male,Dead,81,146,no,no,LUSC
+TCGA-66-2765,Stage IB,1,61,"Squamous cell carcinoma, NOS",T2,N0,M0,not reported,male,Alive,64,NA,not reported,not reported,LUSC
+TCGA-66-2753,Stage IB,1,31,"Squamous cell carcinoma, NOS",T2,N0,M0,not reported,male,Alive,69,NA,not reported,not reported,LUSC
+TCGA-NC-A5HE,Stage IIB,2,2336,"Squamous cell carcinoma, NOS",T2,N1,M0,white,male,Alive,60,NA,yes,yes,LUSC
+TCGA-NC-A5HM,Stage IB,1,1212,"Squamous cell carcinoma, NOS",T2a,N0,M0,white,male,Alive,76,NA,no,no,LUSC
+TCGA-34-A5IX,Stage IIB,2,1031,"Squamous cell carcinoma, NOS",T3,N0,M0,white,male,Alive,80,NA,no,no,LUSC
+TCGA-58-A46K,Stage IIIA,3,NA,Basaloid squamous cell carcinoma,T2,N2,M0,white,male,Dead,59,1045,yes,yes,LUSC
+TCGA-39-5028,Stage IIIA,3,52,"Squamous cell carcinoma, NOS",T4,N1,M0,white,male,Dead,75,52,no,no,LUSC
+TCGA-56-8305,Stage IB,1,105,"Squamous cell carcinoma, NOS",T2a,N0,M0,white,male,Alive,72,NA,not reported,not reported,LUSC
+TCGA-34-2600,Stage IA,1,1874,"Squamous cell carcinoma, NOS",T1,N0,M0,white,female,Dead,76,1874,no,no,LUSC
+TCGA-18-3411,Stage IIIA,3,3576,"Squamous cell carcinoma, NOS",T2,N2,M0,not reported,female,Alive,63,NA,yes,yes,LUSC
+TCGA-33-AASI,Stage IIB,2,NA,"Squamous cell carcinoma, NOS",T2,N1,MX,black or african american,female,Dead,65,1344,yes,yes,LUSC
+TCGA-21-1077,Stage IIB,2,1058,"Squamous cell carcinoma, NOS",T2,N1,M0,white,male,Dead,64,1058,no,no,LUSC
+TCGA-92-8064,NA,NA,160,"Squamous cell carcinoma, NOS",T2b,N0,MX,white,male,Alive,58,NA,yes,no,LUSC
+TCGA-39-5011,Stage IA,1,4053,"Squamous cell carcinoma, NOS",T1b,N0,M0,white,female,Alive,70,NA,no,no,LUSC
+TCGA-63-5128,Stage IB,1,NA,"Squamous cell carcinoma, NOS",T2,N0,M0,not reported,male,Dead,NA,NA,no,no,LUSC
+TCGA-66-2800,Stage IIIB,3,1492,"Squamous cell carcinoma, NOS",T4,N0,M0,not reported,male,Alive,70,NA,no,no,LUSC
+TCGA-34-5240,Stage IIB,2,1541,Basaloid squamous cell carcinoma,T2,N1,M0,white,female,Alive,73,NA,yes,no,LUSC
+TCGA-77-7138,Stage IB,1,NA,"Squamous cell carcinoma, NOS",T2,N0,M0,not reported,male,Dead,67,340,no,no,LUSC
+TCGA-60-2703,Stage IIB,2,NA,"Squamous cell carcinoma, NOS",T2,N1,M0,white,male,Dead,73,2945,no,no,LUSC
+TCGA-56-8623,Stage IB,1,6,"Squamous cell carcinoma, NOS",T2a,N0,MX,white,male,Dead,71,692,no,no,LUSC
+TCGA-85-A4JC,Stage IIA,2,455,"Squamous cell carcinoma, NOS",T2b,N0,M0,white,male,Dead,84,604,yes,no,LUSC
+TCGA-21-5782,Stage IB,1,962,"Squamous cell carcinoma, NOS",T2,N0,M0,white,female,Dead,68,962,no,no,LUSC
+TCGA-77-6844,Stage IIIA,3,NA,"Squamous cell carcinoma, NOS",T3,N1,M0,white,male,Dead,74,2284,no,yes,LUSC
+TCGA-NC-A5HN,Stage IIA,2,1499,"Squamous cell carcinoma, NOS",T2a,N1,M0,white,male,Alive,77,NA,no,no,LUSC
+TCGA-O2-A52W,Stage I,1,NA,"Squamous cell carcinoma, NOS",T2,N0,MX,black or african american,male,Dead,63,261,no,no,LUSC
+TCGA-85-6561,Stage IB,1,1224,"Squamous cell carcinoma, NOS",T2a,NX,M0,white,male,Alive,66,NA,yes,yes,LUSC
+TCGA-77-A5G3,Stage IIB,2,4570,"Squamous cell carcinoma, NOS",T2,N1,M0,not reported,male,Alive,63,NA,no,no,LUSC
+TCGA-43-A56U,Stage IA,1,432,"Squamous cell carcinoma, NOS",T1b,N0,MX,white,female,Alive,76,NA,no,no,LUSC
+TCGA-34-5231,Stage IA,1,1528,"Squamous cell carcinoma, NOS",T1,N0,M0,white,male,Dead,72,1984,no,no,LUSC
+TCGA-22-4599,Stage IB,1,1161,"Squamous cell carcinoma, NOS",T2a,N0,M0,white,female,Dead,73,1161,not reported,not reported,LUSC
+TCGA-56-7582,Stage IB,1,601,"Squamous cell carcinoma, NOS",T2a,N0,M0,white,male,Alive,83,NA,no,no,LUSC
+TCGA-63-5131,Stage IIB,2,NA,"Squamous cell carcinoma, NOS",T2,N1,M0,not reported,male,Dead,NA,NA,no,no,LUSC
+TCGA-37-4132,Stage IV,4,227,"Squamous cell carcinoma, NOS",T2,N0,M1,white,female,Alive,61,NA,no,no,LUSC
+TCGA-46-3765,Stage IA,1,405,"Squamous cell carcinoma, NOS",T1,N0,M0,white,female,Alive,59,NA,no,no,LUSC
+TCGA-85-8353,Stage IIIA,3,54,"Squamous cell carcinoma, NOS",T3,N1,M0,white,male,Dead,72,94,no,no,LUSC
+TCGA-NC-A5HI,Stage IB,1,1743,"Squamous cell carcinoma, NOS",T2,N0,M0,white,female,Alive,68,NA,yes,no,LUSC
+TCGA-22-0944,Stage IB,1,223,"Squamous cell carcinoma, NOS",T2,N0,M0,white,male,Dead,61,223,not reported,not reported,LUSC
+TCGA-85-7950,Stage IB,1,576,"Squamous cell carcinoma, NOS",T2a,N0,M0,white,male,Alive,46,NA,no,no,LUSC
+TCGA-77-A5GH,Stage IB,1,1182,"Squamous cell carcinoma, NOS",T2a,N0,M0,not reported,male,Alive,81,NA,no,no,LUSC
+TCGA-22-5473,NA,NA,NA,"Squamous cell carcinoma, NOS",T3,N0,M0,white,male,Dead,78,1933,yes,no,LUSC
+TCGA-56-7822,Stage IIB,2,1,"Squamous cell carcinoma, NOS",T2b,N1,M0,black or african american,male,Dead,75,532,not reported,not reported,LUSC
+TCGA-NK-A5CT,Stage IA,1,1997,"Squamous cell carcinoma, NOS",T1,N0,M0,white,male,Alive,70,NA,no,no,LUSC
+TCGA-60-2712,Stage IIB,2,274,"Squamous cell carcinoma, NOS",T2,N1,M0,white,female,Dead,79,274,no,no,LUSC
+TCGA-33-4538,Stage IIIA,3,NA,"Squamous cell carcinoma, NOS",T2,N2,M0,white,male,Dead,66,2979,yes,no,LUSC
+TCGA-85-8049,Stage IB,1,579,"Squamous cell carcinoma, NOS",T2a,N0,M0,white,male,Alive,57,NA,no,no,LUSC
+TCGA-56-5898,Stage IA,1,555,"Squamous cell carcinoma, NOS",T1b,N0,M0,white,male,Alive,69,NA,no,no,LUSC
+TCGA-98-A53I,Stage IIA,2,565,"Squamous cell carcinoma, NOS",T2a,N1,M0,white,male,Alive,64,NA,yes,no,LUSC
+TCGA-33-4583,Stage IA,1,4299,"Squamous cell carcinoma, NOS",T1,N0,M0,white,male,Dead,73,4601,no,no,LUSC
+TCGA-NC-A5HD,Stage IIB,2,NA,"Squamous cell carcinoma, NOS",T3,N0,M0,white,male,Dead,79,2,no,no,LUSC
+TCGA-63-A5M9,Stage IIB,2,0,"Squamous cell carcinoma, NOS",T2,N1,M0,not reported,female,Alive,NA,NA,not reported,not reported,LUSC
+TCGA-22-5479,Stage IB,1,1651,"Squamous cell carcinoma, NOS",T2,N0,M0,white,male,Dead,64,2625,yes,no,LUSC
+TCGA-90-7767,Stage IIB,2,89,"Squamous cell carcinoma, NOS",T2b,N1,MX,white,male,Alive,56,NA,not reported,not reported,LUSC
+TCGA-37-3789,Stage IB,1,13,"Squamous cell carcinoma, NOS",T2,N0,NA,white,male,Alive,65,NA,not reported,not reported,LUSC
+TCGA-56-A4BX,Stage IIA,2,405,"Squamous cell carcinoma, NOS",T2b,N0,MX,white,male,Alive,70,NA,yes,no,LUSC
+TCGA-60-2698,Stage IIB,2,NA,"Squamous cell carcinoma, NOS",T2,N1,M0,white,male,Dead,62,311,no,no,LUSC
+TCGA-58-A46N,Stage IB,1,910,Basaloid squamous cell carcinoma,T2a,N0,M0,white,male,Alive,52,NA,no,yes,LUSC
+TCGA-56-8083,Stage IB,1,150,"Squamous cell carcinoma, NOS",T2a,N0,MX,white,male,Alive,56,NA,not reported,not reported,LUSC
+TCGA-33-AASL,Stage IA,1,NA,"Squamous cell carcinoma, NOS",T1,N0,MX,black or african american,female,Dead,57,826,yes,yes,LUSC
+TCGA-39-5024,Stage IIIA,3,2510,"Squamous cell carcinoma, NOS",T2a,N2,M0,white,female,Alive,65,NA,yes,no,LUSC
+TCGA-39-5037,Stage IIA,2,1690,"Squamous cell carcinoma, NOS",T1b,N1,M0,white,male,Alive,65,NA,yes,no,LUSC
+TCGA-63-A5MS,Stage IB,1,2381,"Squamous cell carcinoma, NOS",T2,N0,M0,not reported,male,Alive,78,NA,no,no,LUSC
+TCGA-60-2725,Stage IB,1,816,"Squamous cell carcinoma, NOS",T2,N0,M0,white,male,Alive,74,NA,no,no,LUSC
+TCGA-21-1081,Stage IIB,2,284,"Squamous cell carcinoma, NOS",T2,N1,M0,white,male,Dead,69,284,no,yes,LUSC
+TCGA-92-8065,Stage IIB,2,70,"Squamous cell carcinoma, keratinizing, NOS",T3,N0,MX,white,female,Alive,74,NA,no,no,LUSC
+TCGA-33-4589,Stage IIB,2,NA,"Squamous cell carcinoma, NOS",T2,N1,M0,white,female,Dead,62,47,no,no,LUSC
+TCGA-85-8277,Stage IIIA,3,11,"Squamous cell carcinoma, NOS",T3,N1,M0,white,male,Dead,70,307,no,no,LUSC
+TCGA-22-4591,Stage IIIA,3,623,"Squamous cell carcinoma, NOS",T3,N2,M0,white,male,Dead,80,623,no,no,LUSC
+TCGA-34-5232,Stage IIA,2,2471,"Squamous cell carcinoma, NOS",T1,N1,M0,black or african american,female,Alive,75,NA,no,no,LUSC
+TCGA-22-1016,Stage IB,1,822,"Squamous cell carcinoma, NOS",T2,N0,M0,white,male,Dead,65,822,no,no,LUSC
+TCGA-77-A5GA,Stage IB,1,1280,"Squamous cell carcinoma, NOS",T2a,N0,M0,not reported,male,Alive,76,NA,no,no,LUSC
+TCGA-77-A5G1,Stage IIIA,3,4026,"Squamous cell carcinoma, NOS",T3,N1,M0,not reported,male,Alive,75,NA,no,no,LUSC
+TCGA-51-4081,Stage IIB,2,911,"Squamous cell carcinoma, NOS",T2a,N1,M0,white,male,Alive,55,NA,yes,no,LUSC
+TCGA-22-A5C4,Stage IIA,2,671,"Squamous cell carcinoma, NOS",T2b,N0,M0,white,male,Alive,70,NA,no,no,LUSC
+TCGA-NK-A5D1,Stage IIA,2,511,"Squamous cell carcinoma, NOS",T2a,N1,M0,white,male,Alive,57,NA,yes,yes,LUSC
+TCGA-34-2608,Stage IB,1,1000,"Squamous cell carcinoma, NOS",T2,N0,M0,white,male,Dead,84,1000,no,no,LUSC
+TCGA-22-5482,Stage IB,1,357,"Squamous cell carcinoma, NOS",T2a,N0,M0,white,male,Dead,81,357,no,no,LUSC
+TCGA-85-8354,Stage IB,1,995,"Squamous cell carcinoma, NOS",T2a,N0,M0,white,male,Alive,53,NA,no,no,LUSC
+TCGA-77-6845,Stage IIB,2,NA,"Squamous cell carcinoma, NOS",T3,N0,M0,white,male,Dead,69,708,no,no,LUSC
+TCGA-98-A53B,Stage IB,1,NA,"Squamous cell carcinoma, NOS",T2a,N0,M0,white,male,Dead,69,61,no,no,LUSC
+TCGA-37-4133,Stage IIIA,3,238,"Squamous cell carcinoma, NOS",T4,N0,M0,white,male,Alive,63,NA,not reported,not reported,LUSC
+TCGA-98-8023,Stage IIIA,3,649,"Squamous cell carcinoma, NOS",T3,N1,M0,white,male,Alive,70,NA,no,no,LUSC
+TCGA-94-7943,Stage IA,1,559,"Squamous cell carcinoma, NOS",T1b,NX,MX,white,male,Alive,80,NA,no,no,LUSC
+TCGA-56-A4ZK,Stage IB,1,570,"Squamous cell carcinoma, NOS",T2,N0,M0,white,female,Alive,76,NA,no,no,LUSC
+TCGA-18-5595,Stage IB,1,NA,"Squamous cell carcinoma, NOS",T2,N0,M0,not reported,male,Dead,50,827,not reported,not reported,LUSC
+TCGA-77-8136,Stage IIB,2,NA,"Squamous cell carcinoma, NOS",T2,N1,M0,not reported,female,Dead,74,1189,no,no,LUSC
+TCGA-33-AASB,Stage IB,1,NA,"Squamous cell carcinoma, NOS",T2,N0,MX,black or african american,male,Dead,66,211,yes,no,LUSC
+TCGA-66-2773,Stage IB,1,NA,"Squamous cell carcinoma, NOS",T2,N0,M0,not reported,male,Dead,69,92,not reported,not reported,LUSC
+TCGA-NC-A5HJ,Stage IIB,2,NA,"Squamous cell carcinoma, NOS",T3,N0,M0,white,male,Dead,59,418,no,no,LUSC
+TCGA-85-7843,Stage IIA,2,35,"Squamous cell carcinoma, NOS",T2a,N1,M0,white,male,Alive,50,NA,not reported,not reported,LUSC
+TCGA-77-7338,Stage IB,1,NA,"Squamous cell carcinoma, NOS",T2,N0,M0,white,male,Dead,64,5,no,no,LUSC
+TCGA-21-1083,Stage IA,1,267,"Squamous cell carcinoma, NOS",T1,N0,M0,white,male,Dead,75,1315,no,no,LUSC
+TCGA-LA-A7SW,Stage IIIA,3,146,"Squamous cell carcinoma, NOS",T3,N1,MX,black or african american,male,Dead,71,408,yes,yes,LUSC
+TCGA-34-8454,Stage IIIA,3,1180,"Squamous cell carcinoma, NOS",T3,N1,M0,white,female,Alive,62,NA,yes,no,LUSC
+TCGA-63-A5MG,Stage IB,1,2148,"Squamous cell carcinoma, NOS",T2,N0,M0,not reported,male,Alive,68,NA,no,no,LUSC
+TCGA-85-7699,Stage IIIA,3,1,"Squamous cell carcinoma, NOS",T4,N0,M0,white,male,Dead,73,1001,yes,no,LUSC
+TCGA-43-2576,Stage IIIA,3,1223,"Squamous cell carcinoma, NOS",T2,N2,M0,white,female,Alive,62,NA,yes,yes,LUSC
+TCGA-63-7021,Stage IA,1,2142,"Squamous cell carcinoma, NOS",T1,N0,M0,not reported,male,Alive,NA,NA,no,no,LUSC
+TCGA-22-4604,Stage IIA,2,NA,"Squamous cell carcinoma, NOS",T2a,N1,M0,white,male,Dead,73,399,yes,no,LUSC
+TCGA-96-A4JL,Stage IIA,2,842,"Squamous cell carcinoma, NOS",T2a,N1,M0,asian,female,Alive,78,NA,yes,no,LUSC
+TCGA-33-4582,Stage IA,1,NA,"Squamous cell carcinoma, NOS",T1,N0,M0,white,male,Dead,55,3149,yes,yes,LUSC
+TCGA-60-2723,Stage IB,1,1092,"Squamous cell carcinoma, NOS",T2,N0,M0,white,female,Alive,74,NA,no,no,LUSC
+TCGA-O2-A52N,Stage I,1,NA,"Squamous cell carcinoma, NOS",T2,N0,MX,white,male,Dead,78,1006,no,no,LUSC
+TCGA-21-1082,Stage IB,1,3644,"Squamous cell carcinoma, NOS",T2,N0,M0,white,male,Alive,61,NA,no,no,LUSC
+TCGA-90-6837,Stage IIB,2,758,"Squamous cell carcinoma, NOS",T3,N0,MX,white,male,Alive,64,NA,yes,no,LUSC
+TCGA-52-7811,Stage IB,1,NA,"Squamous cell carcinoma, NOS",T2,N0,M0,white,male,Dead,67,266,no,no,LUSC
+TCGA-68-A59I,Stage IIIA,3,492,"Squamous cell carcinoma, NOS",T3,N1,M0,black or african american,female,Alive,73,NA,yes,yes,LUSC
+TCGA-98-8021,Stage IA,1,937,"Squamous cell carcinoma, NOS",T1a,N0,M0,white,female,Alive,75,NA,no,no,LUSC
+TCGA-85-7844,Stage IB,1,911,"Squamous cell carcinoma, NOS",T2a,N0,M0,white,male,Alive,71,NA,no,no,LUSC
+TCGA-58-8386,Stage IV,4,NA,"Squamous cell carcinoma, NOS",T3,NX,M1,not reported,male,Dead,75,1,no,no,LUSC
+TCGA-58-8393,Stage IB,1,1058,"Squamous cell carcinoma, NOS",T2a,N0,M0,white,female,Alive,68,NA,no,no,LUSC
+TCGA-85-8352,Stage IIIA,3,67,"Squamous cell carcinoma, NOS",T3,N1,M0,white,male,Dead,67,161,no,no,LUSC
+TCGA-70-6723,Stage IIA,2,375,Papillary squamous cell carcinoma,T3,N0,M0,asian,male,Alive,65,NA,no,yes,LUSC
+TCGA-NC-A5HR,Stage IIA,2,1244,Basaloid squamous cell carcinoma,T2a,N1,M0,white,female,Alive,75,NA,yes,no,LUSC
+TCGA-66-2767,Stage IIIB,3,61,"Squamous cell carcinoma, NOS",T2,N3,M0,not reported,male,Alive,62,NA,not reported,not reported,LUSC
+TCGA-22-1011,Stage IB,1,53,"Squamous cell carcinoma, NOS",T2,N0,M0,white,male,Dead,73,53,no,no,LUSC
+TCGA-56-A49D,Stage IIIA,3,637,"Squamous cell carcinoma, NOS",T2a,N2,MX,white,male,Alive,67,NA,no,no,LUSC
+TCGA-58-A46L,Stage IIIA,3,1723,Basaloid squamous cell carcinoma,T2,N2,M0,white,male,Alive,73,NA,yes,no,LUSC
+TCGA-56-7221,Stage IB,1,608,"Squamous cell carcinoma, NOS",T2,N0,M0,white,male,Alive,79,NA,no,no,LUSC
+TCGA-66-2763,Stage IB,1,30,"Squamous cell carcinoma, NOS",T2,N0,M0,not reported,female,Alive,63,NA,not reported,not reported,LUSC
+TCGA-66-2744,Stage IIB,2,30,"Squamous cell carcinoma, NOS",T2,N1,M0,not reported,male,Alive,71,NA,not reported,not reported,LUSC
+TCGA-56-8629,Stage IIA,2,481,"Squamous cell carcinoma, NOS",T2b,N0,MX,white,male,Alive,63,NA,yes,no,LUSC
+TCGA-60-2711,Stage IB,1,1260,"Squamous cell carcinoma, NOS",T2,N0,M0,white,female,Alive,64,NA,no,no,LUSC
+TCGA-37-4135,Stage IB,1,207,"Squamous cell carcinoma, NOS",T2a,N0,M0,white,male,Alive,68,NA,not reported,not reported,LUSC
+TCGA-98-A53D,Stage IIB,2,22,"Squamous cell carcinoma, keratinizing, NOS",T3,N0,M0,white,male,Dead,68,645,yes,yes,LUSC
+TCGA-56-8628,Stage IA,1,616,"Squamous cell carcinoma, NOS",T1b,N0,MX,white,male,Alive,78,NA,no,no,LUSC
+TCGA-21-1076,Stage IB,1,1852,"Squamous cell carcinoma, NOS",T2,N0,M0,white,female,Alive,54,NA,no,no,LUSC
+TCGA-92-7341,Stage IB,1,106,"Squamous cell carcinoma, NOS",T2a,N0,MX,white,male,Alive,71,NA,no,no,LUSC
+TCGA-56-8625,Stage IIIA,3,63,"Squamous cell carcinoma, NOS",T3,N1,MX,white,female,Dead,66,315,yes,no,LUSC
+TCGA-85-A4JB,Stage IIB,2,942,"Squamous cell carcinoma, NOS",T3,N0,M0,white,male,Alive,74,NA,yes,no,LUSC
+TCGA-NK-A5CR,Stage IB,1,2542,"Squamous cell carcinoma, NOS",T2,N0,MX,not reported,male,Alive,77,NA,no,no,LUSC
+TCGA-77-8138,Stage IB,1,NA,"Squamous cell carcinoma, NOS",T2,N0,M0,not reported,male,Dead,74,539,no,no,LUSC
+TCGA-21-1070,Stage IIIA,3,3636,"Squamous cell carcinoma, NOS",T3,N0,M0,black or african american,female,Alive,60,NA,no,no,LUSC
+TCGA-60-2708,Stage IIB,2,2447,"Squamous cell carcinoma, NOS",T2,N1,M0,white,female,Alive,64,NA,yes,no,LUSC
+TCGA-56-8624,Stage IIB,2,420,"Squamous cell carcinoma, NOS",T3,N0,MX,white,male,Alive,84,NA,yes,no,LUSC
+TCGA-85-6175,Stage IIB,2,0,"Squamous cell carcinoma, NOS",T3,N0,M0,white,female,Dead,63,294,no,no,LUSC
+TCGA-94-A4VJ,Stage IA,1,430,"Squamous cell carcinoma, NOS",T1b,N0,M0,white,female,Alive,71,NA,no,no,LUSC
+TCGA-22-4607,Stage IB,1,587,"Squamous cell carcinoma, NOS",T2a,N0,M0,white,male,Dead,75,587,no,no,LUSC
+TCGA-56-8201,Stage IIB,2,28,"Squamous cell carcinoma, NOS",T3,N0,MX,white,male,Dead,74,397,no,no,LUSC
+TCGA-39-5029,Stage IIIA,3,NA,"Squamous cell carcinoma, NOS",T1b,N2,M0,white,male,Dead,67,740,yes,no,LUSC
+TCGA-77-7463,Stage IB,1,NA,"Squamous cell carcinoma, NOS",T2,N0,M0,white,male,Dead,75,1423,no,no,LUSC
+TCGA-22-5485,Stage IA,1,916,"Squamous cell carcinoma, NOS",T1a,N0,M0,white,female,Dead,58,916,no,no,LUSC
+TCGA-34-5236,Stage IIB,2,NA,"Squamous cell carcinoma, NOS",T3,N0,M0,white,male,Dead,60,276,yes,yes,LUSC
+TCGA-63-7023,Stage IIA,2,1682,"Squamous cell carcinoma, NOS",T1,N1,M0,not reported,male,Alive,NA,NA,yes,yes,LUSC
+TCGA-77-8153,Stage IB,1,1992,"Squamous cell carcinoma, NOS",T2,N0,M0,not reported,female,Alive,77,NA,no,no,LUSC
+TCGA-94-7033,Stage IB,1,640,"Squamous cell carcinoma, NOS",T2,N0,MX,white,male,Alive,73,NA,yes,no,LUSC
+TCGA-60-2720,Stage IB,1,97,"Squamous cell carcinoma, NOS",T2,N0,M0,white,female,Alive,60,NA,yes,not reported,LUSC
+TCGA-94-8035,Stage IIB,2,122,"Squamous cell carcinoma, NOS",T3,N0,MX,white,male,Alive,64,NA,yes,no,LUSC
+TCGA-34-5234,Stage IA,1,2271,"Squamous cell carcinoma, NOS",T1,N0,M0,white,female,Alive,71,NA,no,no,LUSC
+TCGA-63-A5MW,Stage IB,1,1639,"Squamous cell carcinoma, NOS",T2,N0,M0,not reported,male,Alive,76,NA,no,no,LUSC
+TCGA-85-8666,Stage IB,1,475,"Squamous cell carcinoma, NOS",T2a,N0,M0,white,male,Dead,65,687,no,no,LUSC
+TCGA-96-8170,Stage IIA,2,531,"Squamous cell carcinoma, NOS",T1a,N1,M0,white,female,Alive,75,NA,no,no,LUSC
+TCGA-68-7755,Stage IIA,2,83,"Squamous cell carcinoma, NOS",T1b,N1,M0,white,female,Alive,60,NA,yes,no,LUSC
+TCGA-56-7222,Stage IB,1,13,"Squamous cell carcinoma, NOS",T2a,N0,M0,white,male,Dead,60,562,yes,no,LUSC
+TCGA-33-4586,Stage IIIA,3,NA,"Squamous cell carcinoma, NOS",T2,N2,M0,white,male,Dead,57,428,yes,yes,LUSC
+TCGA-77-7142,Stage IB,1,2227,"Squamous cell carcinoma, NOS",T2,N0,M0,white,female,Alive,59,NA,no,no,LUSC
+TCGA-43-2578,Stage IA,1,684,"Squamous cell carcinoma, NOS",T1,N0,M0,white,female,Dead,59,684,no,no,LUSC
+TCGA-56-7223,Stage IIIA,3,30,"Squamous cell carcinoma, NOS",T3,N1,MX,white,male,Dead,66,442,yes,no,LUSC
+TCGA-85-8052,Stage IIB,2,734,"Squamous cell carcinoma, NOS",T3,N0,M0,white,male,Alive,53,NA,no,no,LUSC
+TCGA-22-5480,Stage IA,1,2170,"Squamous cell carcinoma, NOS",T1b,N0,M0,white,female,Dead,66,2170,no,no,LUSC
+TCGA-52-7622,Stage IA,1,862,"Squamous cell carcinoma, NOS",T1a,N0,M0,white,female,Alive,62,NA,yes,no,LUSC
+TCGA-51-6867,Stage I,1,NA,"Squamous cell carcinoma, NOS",T1,N0,M0,white,female,Dead,72,1856,no,no,LUSC
+TCGA-60-2697,Stage IIA,2,NA,"Squamous cell carcinoma, NOS",T2,N2,M0,white,male,Dead,41,372,no,no,LUSC
+TCGA-66-2737,Stage IIB,2,61,"Squamous cell carcinoma, NOS",T2,N1,M0,not reported,male,Alive,72,NA,not reported,not reported,LUSC
+TCGA-39-5036,Stage IB,1,2165,"Squamous cell carcinoma, NOS",T2,N0,M0,white,male,Alive,73,NA,no,no,LUSC
+TCGA-90-7766,Stage IA,1,289,"Squamous cell carcinoma, NOS",T1b,N0,MX,white,female,Alive,66,NA,no,no,LUSC
+TCGA-66-2792,Stage IIB,2,913,"Squamous cell carcinoma, NOS",T2,N1,M0,not reported,male,Alive,58,NA,yes,no,LUSC
+TCGA-43-6647,Stage IIB,2,757,"Squamous cell carcinoma, NOS",T2b,N1,MX,white,female,Alive,69,NA,yes,no,LUSC
+TCGA-92-8063,Stage IIIA,3,122,"Squamous cell carcinoma, NOS",T2b,N2,MX,white,male,Alive,52,NA,yes,yes,LUSC
+TCGA-NC-A5HO,Stage IIIA,3,1336,"Squamous cell carcinoma, keratinizing, NOS",T3,N1,M0,white,female,Alive,70,NA,yes,no,LUSC
+TCGA-77-8008,Stage IB,1,NA,"Squamous cell carcinoma, keratinizing, NOS",T2,N0,M0,not reported,male,Dead,68,2639,no,no,LUSC
+TCGA-33-4547,Stage IB,1,2419,"Squamous cell carcinoma, NOS",T2,N0,M0,white,male,Alive,68,NA,no,no,LUSC
+TCGA-58-8392,Stage IB,1,NA,"Squamous cell carcinoma, NOS",T2a,N0,M0,white,male,Dead,70,501,yes,no,LUSC
+TCGA-77-8140,Stage IIB,2,NA,"Squamous cell carcinoma, NOS",T2,N1,M0,not reported,female,Dead,66,351,no,no,LUSC
+TCGA-60-2704,Stage IIB,2,NA,"Squamous cell carcinoma, NOS",T2,N1,M0,white,male,Dead,73,1154,no,no,LUSC
+TCGA-33-4587,Stage IB,1,NA,"Squamous cell carcinoma, small cell, nonkeratinizing",T2,N0,MX,white,female,Dead,63,1656,yes,no,LUSC
+TCGA-60-2709,Stage IB,1,1505,"Squamous cell carcinoma, NOS",T2,N0,MX,black or african american,male,Alive,69,NA,no,no,LUSC
+TCGA-22-4609,Stage IA,1,NA,"Squamous cell carcinoma, NOS",T1,N0,M0,white,male,Dead,81,291,no,no,LUSC
+TCGA-85-8287,Stage IA,1,13,"Squamous cell carcinoma, NOS",T1b,N0,M0,white,male,Dead,72,23,no,no,LUSC
+TCGA-NC-A5HP,Stage IV,4,730,"Squamous cell carcinoma, keratinizing, NOS",T2a,N0,M1b,white,male,Dead,69,770,yes,yes,LUSC
+TCGA-21-5784,Stage IB,1,1268,"Squamous cell carcinoma, NOS",T2,N0,M0,white,female,Alive,80,NA,no,no,LUSC
+TCGA-NC-A5HQ,Stage IIIA,3,NA,"Squamous cell carcinoma, keratinizing, NOS",T3,N2,M0,white,male,Dead,70,448,yes,yes,LUSC
+TCGA-18-4086,Stage IB,1,NA,"Squamous cell carcinoma, NOS",T2,N0,M0,not reported,male,Dead,64,85,not reported,not reported,LUSC
+TCGA-22-5491,Stage IA,1,1713,"Squamous cell carcinoma, NOS",T1a,N0,M0,white,male,Dead,74,1713,not reported,not reported,LUSC
+TCGA-60-2707,Stage IB,1,NA,"Squamous cell carcinoma, NOS",T2,N0,M0,not reported,male,Dead,70,667,no,no,LUSC
+TCGA-77-7141,Stage IB,1,15,"Squamous cell carcinoma, NOS",T2,N0,M0,white,male,Alive,64,NA,no,no,LUSC
+TCGA-63-A5MH,Stage IA,1,2026,"Squamous cell carcinoma, NOS",T1,N0,M0,not reported,male,Alive,68,NA,no,no,LUSC
+TCGA-85-8584,Stage IIA,2,0,Papillary squamous cell carcinoma,T2a,N1,M0,white,male,Dead,71,383,not reported,not reported,LUSC
+TCGA-77-8154,Stage IA,1,1841,"Squamous cell carcinoma, NOS",T1,N0,M0,not reported,male,Alive,67,NA,no,no,LUSC
+TCGA-60-2719,Stage IB,1,1297,"Squamous cell carcinoma, NOS",T1,N0,M0,white,female,Alive,83,NA,no,no,LUSC
+TCGA-66-2727,Stage IB,1,NA,"Squamous cell carcinoma, NOS",T2,N0,M0,not reported,female,Dead,55,516,not reported,not reported,LUSC
+TCGA-NK-A5CX,Stage IIA,2,111,"Squamous cell carcinoma, NOS",T2b,N0,MX,white,male,Alive,73,NA,no,no,LUSC
+TCGA-NC-A5HF,Stage IIIB,3,NA,"Squamous cell carcinoma, keratinizing, NOS",T4,N0,MX,white,male,Dead,74,138,no,yes,LUSC
+TCGA-37-4141,Stage IA,1,12,"Squamous cell carcinoma, NOS",T1b,N0,M0,white,female,Alive,65,NA,not reported,not reported,LUSC
+TCGA-96-A4JK,Stage IIA,2,589,"Squamous cell carcinoma, NOS",T2a,N1,M0,white,male,Alive,65,NA,yes,no,LUSC
+TCGA-85-8580,Stage IB,1,1113,"Squamous cell carcinoma, NOS",T2a,N0,M0,white,female,Alive,52,NA,no,no,LUSC
+TCGA-77-8146,Stage IA,1,3189,"Squamous cell carcinoma, NOS",T1,N0,M0,not reported,male,Alive,72,NA,no,no,LUSC
+TCGA-66-2754,Stage IIIA,3,61,"Squamous cell carcinoma, NOS",T2,N2,M0,not reported,male,Alive,67,NA,not reported,not reported,LUSC
+TCGA-21-1072,Stage IB,1,3016,"Squamous cell carcinoma, NOS",T2,N0,M0,white,male,Alive,75,NA,no,no,LUSC
+TCGA-77-6842,Stage IIB,2,NA,"Squamous cell carcinoma, NOS",T2,N1,M0,white,male,Dead,79,899,no,no,LUSC
+TCGA-85-A4CN,Stage IIB,2,1038,"Squamous cell carcinoma, NOS",T2b,N1,M0,white,female,Alive,56,NA,yes,yes,LUSC
+TCGA-85-8070,Stage IB,1,960,"Squamous cell carcinoma, NOS",T2,N0,M0,white,male,Alive,71,NA,no,no,LUSC
+TCGA-22-1012,Stage IB,1,NA,"Squamous cell carcinoma, NOS",T2,N0,M0,white,female,Dead,80,429,not reported,not reported,LUSC
+TCGA-56-1622,Stage IB,1,NA,"Squamous cell carcinoma, NOS",T2,N0,M0,white,male,Dead,58,881,no,no,LUSC
+TCGA-34-5928,Stage IIB,2,1196,"Squamous cell carcinoma, NOS",T2,N1,M0,white,female,Alive,83,NA,no,no,LUSC
+TCGA-56-8308,Stage IIB,2,517,"Squamous cell carcinoma, NOS",T3,N0,MX,white,male,Alive,79,NA,yes,yes,LUSC
+TCGA-56-6546,Stage IIA,2,NA,"Squamous cell carcinoma, NOS",T2b,N0,MX,white,male,Dead,67,NA,no,no,LUSC
+TCGA-39-5039,Stage IIA,2,544,"Squamous cell carcinoma, NOS",T2b,N0,M0,white,male,Dead,76,544,no,no,LUSC
+TCGA-63-A5MP,Stage IIB,2,769,"Squamous cell carcinoma, NOS",T2,N1,M0,not reported,male,Alive,56,NA,yes,yes,LUSC
+TCGA-22-4601,Stage IIIA,3,1057,"Squamous cell carcinoma, NOS",T4,N0,M0,white,female,Dead,73,1057,no,not reported,LUSC
+TCGA-22-5489,Stage IA,1,1912,"Squamous cell carcinoma, NOS",T1b,N0,M0,white,male,Dead,64,1912,no,no,LUSC
+TCGA-NC-A5HT,Stage IIIA,3,804,"Squamous cell carcinoma, NOS",T3,N1,M0,white,male,Alive,69,NA,yes,yes,LUSC
+TCGA-56-8082,Stage IIA,2,455,"Squamous cell carcinoma, NOS",T2b,N0,MX,white,female,Alive,80,NA,no,no,LUSC
+TCGA-33-4532,Stage IB,1,2524,"Squamous cell carcinoma, NOS",T2,N0,M0,white,male,Dead,68,3924,no,no,LUSC
+TCGA-22-0940,Stage IIA,2,608,"Squamous cell carcinoma, NOS",T1,N1,M0,white,male,Dead,71,669,no,no,LUSC
+TCGA-94-A5I4,Stage IIA,2,491,"Squamous cell carcinoma, NOS",T2a,N1,MX,white,male,Alive,61,NA,no,yes,LUSC
+TCGA-85-A513,Stage IA,1,910,"Squamous cell carcinoma, NOS",T1a,NX,M0,asian,female,Alive,60,NA,not reported,no,LUSC
+TCGA-43-8115,Stage IIA,2,407,"Squamous cell carcinoma, NOS",T2a,N1,MX,white,female,Alive,72,NA,yes,no,LUSC
+TCGA-22-5481,Stage IIB,2,NA,"Squamous cell carcinoma, NOS",T2,N1,M0,white,female,Dead,72,2409,no,no,LUSC
+TCGA-68-A59J,Stage IB,1,448,"Squamous cell carcinoma, NOS",T2a,N0,MX,white,female,Alive,74,NA,no,no,LUSC
+TCGA-43-6770,Stage IB,1,653,"Squamous cell carcinoma, NOS",T2a,N0,MX,black or african american,female,Alive,59,NA,yes,no,LUSC
+TCGA-39-5019,Stage IB,1,3387,"Squamous cell carcinoma, NOS",T2a,N0,M0,white,male,Alive,70,NA,no,no,LUSC
+TCGA-43-A475,Stage IIB,2,296,"Squamous cell carcinoma, NOS",T3,N0,M0,white,female,Alive,67,NA,yes,yes,LUSC
+TCGA-46-6025,Stage IIB,2,324,"Squamous cell carcinoma, NOS",T2b,N1,M0,white,male,Alive,71,NA,yes,no,LUSC
+TCGA-66-2759,Stage IIIA,3,762,"Squamous cell carcinoma, NOS",T2,N2,M0,not reported,male,Alive,66,NA,yes,yes,LUSC
+TCGA-77-8131,Stage IB,1,NA,"Squamous cell carcinoma, NOS",T2,NX,M0,not reported,male,Dead,72,383,not reported,not reported,LUSC
+TCGA-85-A50M,Stage IIA,2,382,"Squamous cell carcinoma, NOS",T2b,N0,M0,asian,male,Dead,47,826,no,no,LUSC
+TCGA-77-8150,Stage IIIA,3,NA,"Squamous cell carcinoma, NOS",T3,N1,M0,not reported,male,Dead,64,1655,yes,yes,LUSC
+TCGA-37-5819,Stage IIIA,3,103,"Squamous cell carcinoma, NOS",T2,N2,M0,white,male,Alive,64,NA,not reported,not reported,LUSC
+TCGA-98-A53C,Stage IA,1,822,"Squamous cell carcinoma, NOS",T1a,N0,M0,white,female,Alive,77,NA,no,no,LUSC
+TCGA-60-2714,Stage IIB,2,1531,"Squamous cell carcinoma, NOS",T2,N1,M0,white,female,Alive,66,NA,yes,no,LUSC
+TCGA-22-4593,Stage IIA,2,1067,"Squamous cell carcinoma, NOS",T2b,N0,M0,white,male,Dead,77,1067,no,no,LUSC
+TCGA-90-7769,Stage IIB,2,358,"Squamous cell carcinoma, NOS",T2b,N1,MX,white,male,Alive,55,NA,no,no,LUSC
+TCGA-56-A62T,Stage IIA,2,440,"Squamous cell carcinoma, NOS",T2b,N0,MX,black or african american,male,Alive,78,NA,yes,yes,LUSC
+TCGA-85-A4PA,Stage IB,1,741,"Squamous cell carcinoma, large cell, nonkeratinizing, NOS",T2a,N0,M0,white,male,Alive,61,NA,no,no,LUSC
+TCGA-56-7823,Stage IIA,2,1011,"Squamous cell carcinoma, NOS",T1b,N1,M0,white,female,Alive,58,NA,yes,no,LUSC
+TCGA-56-8309,Stage IA,1,428,"Squamous cell carcinoma, NOS",T1b,N0,MX,white,male,Alive,66,NA,no,no,LUSC
+TCGA-34-2596,Stage IIB,2,80,"Squamous cell carcinoma, NOS",T2,N1,M0,white,male,Dead,70,80,no,no,LUSC
+TCGA-66-2756,Stage IIIB,3,30,"Squamous cell carcinoma, NOS",T4,N0,M0,not reported,male,Alive,68,NA,not reported,not reported,LUSC
+TCGA-43-5670,Stage IIA,2,849,"Squamous cell carcinoma, NOS",T2b,N0,M0,white,male,Alive,70,NA,yes,no,LUSC
+TCGA-85-8481,Stage IIB,2,21,"Squamous cell carcinoma, NOS",T3,N0,M0,white,male,Dead,70,236,no,no,LUSC
+TCGA-60-2716,Stage IIB,2,1475,"Squamous cell carcinoma, NOS",T2,N1,M0,not reported,male,Alive,39,NA,yes,no,LUSC
+TCGA-33-A4WN,Stage IB,1,NA,"Squamous cell carcinoma, NOS",T2a,N0,MX,white,male,Dead,60,143,not reported,not reported,LUSC
+TCGA-77-8130,Stage IIB,2,4765,"Squamous cell carcinoma, NOS",T2,N1,M0,not reported,male,Alive,69,NA,no,no,LUSC
+TCGA-90-A59Q,Stage IIA,2,269,"Squamous cell carcinoma, NOS",T2a,N1,MX,white,female,Dead,61,322,yes,yes,LUSC
+TCGA-85-8479,Stage IA,1,468,Papillary squamous cell carcinoma,T1a,N0,M0,white,male,Alive,66,NA,not reported,not reported,LUSC
+TCGA-77-7140,Stage IIB,2,NA,"Squamous cell carcinoma, NOS",T2,N1,M0,white,female,Dead,69,632,no,no,LUSC
+TCGA-52-7812,NA,NA,NA,"Squamous cell carcinoma, NOS",T2,N2,M0,white,male,Dead,68,835,yes,yes,LUSC
+TCGA-39-5027,Stage IB,1,3108,"Squamous cell carcinoma, NOS",T2a,N0,M0,white,male,Alive,73,NA,no,no,LUSC
+TCGA-O2-A52S,Stage III,3,NA,"Squamous cell carcinoma, NOS",T4,N2,MX,white,female,Dead,57,387,no,yes,LUSC
+TCGA-60-2710,Stage IIA,2,2024,"Squamous cell carcinoma, NOS",T1,N1,M0,white,female,Alive,67,NA,yes,no,LUSC
+TCGA-77-8144,Stage IB,1,833,"Squamous cell carcinoma, NOS",T2,N0,M0,not reported,male,Alive,70,NA,no,no,LUSC
+TCGA-63-A5MI,Stage IIIA,3,1784,"Squamous cell carcinoma, NOS",T2,N2,M0,not reported,male,Alive,65,NA,yes,no,LUSC
+TCGA-85-A50Z,Stage IIA,2,493,"Squamous cell carcinoma, NOS",T2b,N0,M0,white,male,Alive,57,NA,yes,no,LUSC
+TCGA-18-3407,Stage IB,1,NA,"Squamous cell carcinoma, NOS",T2,N0,M0,asian,male,Dead,72,136,no,no,LUSC
+TCGA-63-A5MV,Stage IIA,2,1100,"Squamous cell carcinoma, NOS",T2b,N0,M0,not reported,male,Alive,69,NA,yes,no,LUSC
+TCGA-77-8148,Stage IIIA,3,2023,"Squamous cell carcinoma, NOS",T3,N1,M0,not reported,male,Alive,68,NA,no,no,LUSC
+TCGA-33-A5GW,Stage IIA,2,9,"Squamous cell carcinoma, NOS",T1a,N1,MX,white,male,Dead,67,9,no,no,LUSC
+TCGA-85-A53L,Stage IIA,2,377,"Squamous cell carcinoma, NOS",T2b,N0,M0,asian,male,Alive,63,NA,no,no,LUSC
+TCGA-22-5474,Stage IB,1,445,"Squamous cell carcinoma, NOS",T2a,N0,M0,white,male,Dead,74,445,no,no,LUSC
+TCGA-43-3920,Stage IB,1,1007,"Squamous cell carcinoma, NOS",T2,N0,M0,white,male,Alive,71,NA,no,no,LUSC
+TCGA-60-2715,Stage IA,1,NA,"Squamous cell carcinoma, NOS",T1,N0,M0,white,male,Dead,51,1075,yes,yes,LUSC
+TCGA-77-A5G7,Stage IA,1,NA,"Squamous cell carcinoma, NOS",T1,N0,M0,not reported,male,Dead,63,180,no,no,LUSC
+TCGA-18-3406,Stage IA,1,NA,"Squamous cell carcinoma, NOS",T1,N0,M0,white,male,Dead,67,371,no,no,LUSC
+TCGA-56-A5DR,Stage IA,1,4,"Squamous cell carcinoma, NOS",T1a,N0,MX,white,male,Alive,81,NA,no,no,LUSC
+TCGA-77-8156,Stage IB,1,1106,"Squamous cell carcinoma, NOS",T2a,N0,M0,not reported,male,Alive,60,NA,no,no,LUSC
+TCGA-34-7107,Stage II,2,NA,"Squamous cell carcinoma, NOS",T2a,N0,M0,white,male,Dead,70,34,not reported,not reported,LUSC
+TCGA-22-4594,Stage IIIA,3,1470,"Squamous cell carcinoma, NOS",T3,N2,M0,not reported,female,Dead,60,1470,not reported,not reported,LUSC
+TCGA-52-7810,Stage IIB,2,923,"Squamous cell carcinoma, NOS",T3,N0,M0,white,female,Alive,60,NA,yes,yes,LUSC
+TCGA-77-A5GF,Stage IIA,2,839,"Squamous cell carcinoma, NOS",T2a,N1,M0,not reported,male,Dead,70,840,no,no,LUSC
+TCGA-18-3415,Stage IB,1,1810,"Squamous cell carcinoma, NOS",T2,N0,M0,not reported,male,Dead,77,2803,yes,no,LUSC
+TCGA-66-2793,Stage IIIB,3,NA,"Squamous cell carcinoma, NOS",T4,N1,M0,not reported,male,Dead,68,306,not reported,not reported,LUSC
+TCGA-98-A539,Stage IIB,2,173,"Squamous cell carcinoma, NOS",T3,N0,M0,white,male,Alive,63,NA,no,no,LUSC
+TCGA-21-5783,Stage IB,1,NA,"Squamous cell carcinoma, NOS",T2,N0,M0,white,male,Dead,76,2680,no,no,LUSC
+TCGA-96-7544,Stage IIB,2,1517,"Squamous cell carcinoma, NOS",T2,N1,MX,white,male,Dead,83,2160,no,no,LUSC
+TCGA-37-4130,Stage IA,1,247,"Squamous cell carcinoma, NOS",T1b,N0,M0,white,male,Alive,56,NA,not reported,not reported,LUSC
+TCGA-77-8009,Stage IIB,2,1641,"Squamous cell carcinoma, NOS",T2,N1,M0,not reported,male,Dead,68,1695,yes,no,LUSC
+TCGA-43-7656,Stage IA,1,596,"Squamous cell carcinoma, NOS",T1b,N0,MX,white,male,Alive,71,NA,no,no,LUSC
+TCGA-85-8355,Stage IA,1,61,"Squamous cell carcinoma, NOS",T1a,N0,M0,white,male,Alive,63,NA,no,no,LUSC
+TCGA-39-5031,Stage IA,1,833,"Squamous cell carcinoma, NOS",T1a,N0,M0,not reported,female,Dead,76,1841,no,no,LUSC
+TCGA-63-A5MM,Stage IIB,2,NA,"Squamous cell carcinoma, NOS",T2,N1,M0,not reported,female,Dead,69,456,yes,yes,LUSC
+TCGA-85-7710,Stage IA,1,42,"Squamous cell carcinoma, NOS",T1b,N0,M0,white,female,Alive,59,NA,no,no,LUSC
+TCGA-66-2757,Stage IA,1,30,"Squamous cell carcinoma, NOS",T1,N0,M0,not reported,female,Dead,65,1338,yes,yes,LUSC
+TCGA-63-A5MR,Stage IB,1,2716,"Squamous cell carcinoma, NOS",T2,N0,M0,not reported,female,Alive,70,NA,no,no,LUSC
+TCGA-18-4083,Stage IIB,2,NA,"Squamous cell carcinoma, NOS",T2,N1,M0,white,male,Dead,63,188,yes,no,LUSC
+TCGA-94-A5I6,Stage IIB,2,538,"Squamous cell carcinoma, NOS",T3,N0,M0,white,male,Alive,62,NA,yes,no,LUSC
+TCGA-18-3419,Stage IIB,2,2811,"Squamous cell carcinoma, NOS",T2,N1,M0,not reported,male,Alive,73,NA,not reported,not reported,LUSC
+TCGA-43-7658,Stage IA,1,2023,"Squamous cell carcinoma, NOS",T1,N0,M0,white,female,Dead,75,2378,no,yes,LUSC
+TCGA-21-A5DI,Stage IA,1,979,"Squamous cell carcinoma, NOS",T1b,N0,M0,white,male,Alive,77,NA,no,no,LUSC
+TCGA-77-A5G8,Stage IIB,2,1884,"Squamous cell carcinoma, NOS",T3,N0,M0,not reported,male,Alive,70,NA,not reported,not reported,LUSC
+TCGA-85-8350,Stage IA,1,683,"Squamous cell carcinoma, NOS",T1b,N0,M0,white,male,Alive,61,NA,no,no,LUSC
+TCGA-NK-A7XE,Stage IIIB,3,13,"Squamous cell carcinoma, NOS",T4,N2,M0,black or african american,male,Alive,66,NA,no,no,LUSC
+TCGA-18-5592,Stage IIB,2,1519,"Squamous cell carcinoma, NOS",T3,N0,M0,not reported,male,Alive,57,NA,yes,yes,LUSC
+TCGA-56-8503,Stage IIB,2,41,"Squamous cell carcinoma, NOS",T3,N0,M0,white,female,Alive,76,NA,not reported,not reported,LUSC
+TCGA-85-8288,Stage IIA,2,54,"Squamous cell carcinoma, NOS",T1b,N1,M0,white,male,Dead,70,402,no,no,LUSC
+TCGA-98-7454,Stage IB,1,652,"Squamous cell carcinoma, NOS",T2a,N0,M0,white,male,Alive,73,NA,no,no,LUSC
+TCGA-37-A5EL,Stage IIB,2,454,"Squamous cell carcinoma, NOS",T3,N0,M0,white,male,Dead,53,1143,yes,yes,LUSC
+TCGA-56-6545,Stage IB,1,666,"Squamous cell carcinoma, NOS",T2a,N0,M0,white,female,Alive,77,NA,no,no,LUSC
+TCGA-22-4613,Stage IA,1,358,"Squamous cell carcinoma, NOS",T1b,N0,M0,white,female,Dead,73,358,no,no,LUSC
+TCGA-33-6737,Stage IIIA,3,NA,"Squamous cell carcinoma, NOS",T2,N2,M0,white,male,Dead,71,601,yes,no,LUSC
+TCGA-63-A5MN,Stage IIB,2,NA,"Squamous cell carcinoma, NOS",T3,N0,M0,not reported,female,Dead,78,345,no,yes,LUSC
+TCGA-98-8020,Stage IIIA,3,NA,"Squamous cell carcinoma, NOS",T2,N2,M0,black or african american,female,Dead,56,84,no,yes,LUSC
+TCGA-18-3409,Stage IA,1,3747,Basaloid squamous cell carcinoma,T1,N0,M0,white,male,Alive,74,NA,no,no,LUSC
+TCGA-37-3792,Stage IB,1,12,"Squamous cell carcinoma, NOS",T2,N0,M0,white,male,Alive,69,NA,not reported,not reported,LUSC
+TCGA-66-2777,Stage IB,1,61,"Squamous cell carcinoma, NOS",T2,N0,M0,not reported,male,Alive,71,NA,not reported,not reported,LUSC
+TCGA-58-8387,Stage IIA,2,NA,"Squamous cell carcinoma, NOS",T2b,N0,M0,white,male,Dead,60,403,yes,no,LUSC
+TCGA-85-8582,Stage IA,1,1160,"Squamous cell carcinoma, keratinizing, NOS",T1a,N0,M0,white,male,Alive,49,NA,no,no,LUSC
+TCGA-33-4533,Stage IB,1,4068,"Squamous cell carcinoma, NOS",T2,N0,M0,black or african american,female,Alive,76,NA,no,no,LUSC
+TCGA-66-2769,Stage IIIB,3,NA,"Squamous cell carcinoma, NOS",T4,N0,M0,not reported,male,Dead,75,215,not reported,not reported,LUSC
+TCGA-21-1080,Stage IB,1,3724,"Squamous cell carcinoma, NOS",T2,N0,M0,white,male,Alive,66,NA,no,no,LUSC
+TCGA-33-AASJ,Stage IB,1,NA,"Squamous cell carcinoma, NOS",T2,N0,MX,black or african american,male,Dead,60,3600,no,no,LUSC
+TCGA-43-A56V,Stage IIIA,3,366,"Squamous cell carcinoma, NOS",T2a,N2,M0,black or african american,male,Alive,61,NA,yes,no,LUSC
+TCGA-77-8128,Stage IIIA,3,NA,"Squamous cell carcinoma, NOS",T2,N2,M0,not reported,male,Dead,60,1150,no,no,LUSC
+TCGA-60-2721,Stage IB,1,983,"Squamous cell carcinoma, NOS",T2,N0,M0,white,male,Alive,73,NA,no,no,LUSC
+TCGA-NC-A5HK,Stage IIB,2,128,"Squamous cell carcinoma, NOS",T3,N0,M0,white,female,Alive,58,NA,yes,no,LUSC
+TCGA-63-A5MY,Stage IA,1,1052,"Squamous cell carcinoma, NOS",T1b,N0,M0,not reported,male,Alive,63,NA,no,no,LUSC
+TCGA-77-8133,Stage IIA,2,NA,"Squamous cell carcinoma, NOS",T1,N1,M0,not reported,male,Dead,74,1640,no,no,LUSC
+TCGA-22-5471,Stage IB,1,1845,"Squamous cell carcinoma, NOS",T2,N0,M0,white,male,Alive,75,NA,no,yes,LUSC
+TCGA-66-2770,Stage IB,1,700,"Squamous cell carcinoma, NOS",T2,N0,M0,not reported,male,Alive,79,NA,not reported,not reported,LUSC
+TCGA-60-2696,Stage IIA,2,109,"Squamous cell carcinoma, NOS",T2,N0,M0,black or african american,female,Dead,76,109,no,no,LUSC
+TCGA-NC-A5HG,Stage IIIA,3,1963,Basaloid squamous cell carcinoma,T2,N2,M0,white,male,Alive,59,NA,yes,yes,LUSC
+TCGA-66-2790,Stage IIB,2,699,"Squamous cell carcinoma, NOS",T2,N1,M0,not reported,male,Alive,72,NA,yes,no,LUSC
+TCGA-77-7465,Stage IIA,2,990,"Squamous cell carcinoma, NOS",T2a,N1,M0,white,male,Alive,58,NA,not reported,not reported,LUSC
+TCGA-56-7731,Stage IB,1,0,"Squamous cell carcinoma, NOS",T2a,N0,MX,white,female,Dead,66,3,no,no,LUSC
+TCGA-85-8071,Stage IIA,2,815,"Squamous cell carcinoma, NOS",T1a,N1,M0,white,male,Alive,52,NA,no,no,LUSC
+TCGA-66-2768,Stage IIB,2,61,"Squamous cell carcinoma, NOS",T2,N1,M0,not reported,male,Alive,57,NA,not reported,not reported,LUSC
+TCGA-77-8007,Stage IIB,2,NA,"Squamous cell carcinoma, NOS",T2,N1,M0,not reported,male,Dead,68,198,not reported,not reported,LUSC
+TCGA-68-8250,Stage IA,1,244,"Squamous cell carcinoma, NOS",T1a,N0,MX,black or african american,male,Alive,66,NA,no,no,LUSC
+TCGA-33-4566,Stage IB,1,NA,"Squamous cell carcinoma, NOS",T2,N0,M0,white,male,Dead,40,5287,not reported,not reported,LUSC
+TCGA-33-6738,Stage IIIA,3,1927,"Squamous cell carcinoma, NOS",T1,N2,MX,white,male,Alive,80,NA,yes,no,LUSC
+TCGA-77-7337,Stage IIB,2,NA,"Squamous cell carcinoma, NOS",T2,N1,M0,white,male,Dead,65,3253,no,no,LUSC
+TCGA-68-8251,Stage IB,1,406,"Squamous cell carcinoma, NOS",T2a,N0,M0,white,male,Alive,78,NA,yes,no,LUSC
+TCGA-34-2604,Stage IB,1,958,"Squamous cell carcinoma, NOS",T2,N0,M0,white,female,Dead,81,958,no,no,LUSC
+TCGA-66-2771,Stage IIB,2,578,"Squamous cell carcinoma, NOS",T2,N1,M0,not reported,male,Alive,60,NA,yes,no,LUSC
+TCGA-98-A538,Stage IIB,2,826,"Squamous cell carcinoma, NOS",T3,N0,M0,white,male,Alive,67,NA,no,no,LUSC
+TCGA-85-A511,Stage IIB,2,0,"Squamous cell carcinoma, NOS",T2b,N1,M0,white,male,Dead,62,455,no,no,LUSC
+TCGA-22-5477,Stage IA,1,1346,"Squamous cell carcinoma, NOS",T1,N0,M0,white,male,Dead,65,1346,no,no,LUSC
+TCGA-66-2781,Stage IB,1,121,"Squamous cell carcinoma, NOS",T2,N0,M0,not reported,male,Alive,67,NA,not reported,not reported,LUSC
+TCGA-34-5927,Stage IA,1,1361,"Squamous cell carcinoma, NOS",T1,N0,M0,white,female,Alive,70,NA,yes,no,LUSC
+TCGA-96-8169,Stage IA,1,557,"Squamous cell carcinoma, NOS",T1a,N0,M0,white,female,Alive,67,NA,no,no,LUSC
+TCGA-39-5035,Stage IA,1,2080,"Squamous cell carcinoma, NOS",T1b,N0,M0,white,female,Alive,72,NA,no,no,LUSC
+TCGA-66-2783,Stage IIIB,3,759,"Squamous cell carcinoma, NOS",T2,N3,M0,not reported,male,Alive,67,NA,yes,yes,LUSC
+TCGA-63-7020,Stage IA,1,2133,"Squamous cell carcinoma, NOS",T1,N0,M0,not reported,male,Alive,NA,NA,no,no,LUSC
+TCGA-L3-A4E7,Stage IB,1,392,"Squamous cell carcinoma, NOS",T2a,N0,M0,white,male,Alive,71,NA,no,no,LUSC
+TCGA-34-2609,Stage IIB,2,951,"Squamous cell carcinoma, NOS",T2,N1,M0,black or african american,male,Dead,81,951,yes,no,LUSC
+TCGA-98-A53A,Stage IB,1,274,"Squamous cell carcinoma, NOS",T2a,N0,M0,black or african american,male,Dead,70,552,no,no,LUSC
+TCGA-66-2734,Stage IB,1,1311,"Squamous cell carcinoma, NOS",T2,N0,M0,not reported,female,Alive,62,NA,no,no,LUSC
+TCGA-66-2795,Stage IIIB,3,122,"Squamous cell carcinoma, NOS",T4,N1,M0,not reported,male,Alive,68,NA,not reported,not reported,LUSC
+TCGA-43-7657,Stage IA,1,236,"Squamous cell carcinoma, NOS",T1,N0,MX,white,female,Alive,68,NA,no,no,LUSC
+TCGA-21-1071,Stage IB,1,1426,"Squamous cell carcinoma, NOS",T2,N0,M0,white,male,Dead,67,1426,no,no,LUSC
+TCGA-66-2758,Stage IB,1,639,"Squamous cell carcinoma, NOS",T2,N0,M0,not reported,male,Alive,71,NA,yes,no,LUSC
+TCGA-43-2581,Stage IIIA,3,1176,"Squamous cell carcinoma, NOS",T3,N1,M0,white,female,Alive,47,NA,yes,no,LUSC
+TCGA-XC-AA0X,Stage IA,1,NA,"Squamous cell carcinoma, NOS",T1a,N0,M0,black or african american,female,Dead,77,6,no,no,LUSC
+TCGA-63-A5ML,Stage IB,1,1386,"Squamous cell carcinoma, NOS",T2,N0,M0,not reported,male,Alive,68,NA,yes,no,LUSC
+TCGA-63-6202,Stage IIA,2,1602,"Squamous cell carcinoma, NOS",T2,N0,M0,not reported,male,Alive,NA,NA,no,no,LUSC
+TCGA-58-A46J,Stage IIB,2,2589,"Squamous cell carcinoma, NOS",T2,N1,M0,white,male,Alive,64,NA,yes,no,LUSC
+TCGA-66-2787,Stage IA,1,1217,"Squamous cell carcinoma, NOS",T1,N0,M0,not reported,male,Alive,57,NA,no,no,LUSC
+TCGA-37-3783,Stage IIIA,3,122,"Squamous cell carcinoma, NOS",T3,N2,M0,white,male,Alive,51,NA,not reported,not reported,LUSC
+TCGA-18-3417,Stage IV,4,758,"Squamous cell carcinoma, NOS",T2,N1,M1,not reported,male,Dead,65,1097,yes,no,LUSC
+TCGA-39-5022,Stage IB,1,NA,"Squamous cell carcinoma, NOS",T2a,N0,M0,white,male,Dead,76,1679,no,no,LUSC
+TCGA-66-2788,Stage IB,1,699,"Squamous cell carcinoma, NOS",T2,N0,M0,not reported,male,Alive,56,NA,no,no,LUSC
+TCGA-60-2713,Stage IB,1,1731,"Squamous cell carcinoma, NOS",T2,N0,M0,white,male,Alive,64,NA,no,no,LUSC
+TCGA-22-1005,Stage IA,1,1953,"Squamous cell carcinoma, NOS",T1,N0,M0,white,male,Dead,63,1953,no,no,LUSC
+TCGA-98-A53H,Stage IA,1,618,"Squamous cell carcinoma, NOS",T1a,N0,M0,white,female,Alive,76,NA,no,no,LUSC
+TCGA-56-8622,Stage IB,1,55,"Squamous cell carcinoma, NOS",T2a,N0,M0,white,male,Alive,68,NA,not reported,not reported,LUSC
+TCGA-46-6026,Stage IIB,2,423,"Squamous cell carcinoma, NOS",T2a,N1,M0,white,male,Alive,81,NA,yes,yes,LUSC
+TCGA-51-4080,Stage IIIB,3,NA,Basaloid squamous cell carcinoma,T4,N1,NA,black or african american,male,Dead,65,12,no,no,LUSC
+TCGA-46-3766,Stage IA,1,370,"Squamous cell carcinoma, NOS",T1,N0,M0,white,female,Alive,62,NA,no,no,LUSC
+TCGA-39-5040,Stage IIIA,3,NA,"Squamous cell carcinoma, NOS",T2a,N2,M0,white,male,Dead,59,519,yes,yes,LUSC
+TCGA-63-A5MT,Stage IIB,2,498,"Squamous cell carcinoma, NOS",T3,N0,M0,not reported,male,Alive,74,NA,yes,yes,LUSC
+TCGA-77-7139,Stage IIB,2,4261,"Squamous cell carcinoma, NOS",T2,N1,M0,white,male,Alive,56,NA,no,yes,LUSC
+TCGA-34-5239,Stage IIIA,3,1834,"Squamous cell carcinoma, NOS",T4,N0,M0,white,male,Alive,75,NA,yes,no,LUSC
+TCGA-46-3769,NA,NA,135,"Squamous cell carcinoma, NOS",T4,N0,M0,white,male,Alive,57,NA,yes,yes,LUSC
+TCGA-85-8664,Stage IIB,2,434,"Squamous cell carcinoma, NOS",T2b,N1,M0,white,male,Dead,73,550,yes,no,LUSC
+TCGA-60-2724,Stage IIIA,3,717,"Squamous cell carcinoma, NOS",T3,N1,M0,white,male,Alive,47,NA,yes,no,LUSC
+TCGA-58-A46M,Stage IIB,2,1072,"Squamous cell carcinoma, NOS",T2b,N1,M0,white,male,Alive,61,NA,no,no,LUSC
+TCGA-77-A5G6,Stage IIIA,3,NA,"Squamous cell carcinoma, NOS",T2,N2,M0,not reported,male,Dead,66,678,no,no,LUSC
+TCGA-43-5668,Stage IIA,2,349,"Squamous cell carcinoma, NOS",T1b,N1,M0,white,male,Dead,78,559,yes,no,LUSC
+TCGA-70-6722,Stage IIIA,3,367,"Squamous cell carcinoma, NOS",T3,N1,M0,asian,male,Alive,47,NA,no,yes,LUSC
+TCGA-34-5241,Stage IB,1,428,"Squamous cell carcinoma, NOS",T2,N0,M0,white,male,Dead,79,515,no,no,LUSC
+TCGA-66-2755,Stage IB,1,28,"Squamous cell carcinoma, NOS",T2,N0,M0,not reported,male,Alive,63,NA,not reported,not reported,LUSC
+TCGA-58-8391,Stage IIIA,3,2167,"Squamous cell carcinoma, NOS",T2,N2,M0,white,female,Alive,57,NA,yes,yes,LUSC
+TCGA-18-3408,Stage IB,1,2099,"Squamous cell carcinoma, NOS",T2,N0,M0,white,female,Dead,77,2304,no,yes,LUSC
+TCGA-85-6798,Stage IIIA,3,34,"Squamous cell carcinoma, NOS",T3,N1,M0,white,male,Dead,57,195,yes,no,LUSC
+TCGA-21-1075,Stage IIB,2,2134,"Squamous cell carcinoma, NOS",T2,N1,M0,white,male,Alive,57,NA,no,no,LUSC
+TCGA-22-1002,Stage IA,1,131,"Squamous cell carcinoma, NOS",T1,N0,M0,white,male,Dead,69,131,no,no,LUSC
+TCGA-L3-A524,Stage IIB,2,449,"Squamous cell carcinoma, NOS",T3,N0,M0,white,female,Dead,45,490,yes,no,LUSC
+TCGA-50-5051,Stage IIIA,3,455,"Adenocarcinoma, NOS",T2,N2,M0,white,female,Dead,42,478,yes,yes,LUAD
+TCGA-62-A471,Stage IIB,2,1246,"Adenocarcinoma, NOS",T2b,N1,M0,white,male,Alive,64,NA,yes,no,LUAD
+TCGA-67-3773,Stage IB,1,427,"Adenocarcinoma, NOS",T2,N0,M0,white,female,Alive,84,NA,not reported,not reported,LUAD
+TCGA-NJ-A7XG,Stage IIIA,3,617,"Adenocarcinoma, NOS",T4,N1,M0,black or african american,male,Alive,49,NA,yes,no,LUAD
+TCGA-91-6848,Stage IIIA,3,224,"Adenocarcinoma, NOS",T2,N2,MX,white,male,Alive,59,NA,yes,no,LUAD
+TCGA-55-6986,Stage IB,1,3261,"Bronchiolo-alveolar carcinoma, non-mucinous",T2,N0,M0,white,female,Alive,74,NA,no,no,LUAD
+TCGA-86-6851,Stage IIA,2,179,Adenocarcinoma with mixed subtypes,T1b,N1,M0,white,female,Alive,73,NA,no,no,LUAD
+TCGA-73-4677,NA,NA,NA,"Adenocarcinoma, NOS",T2a,N0,M0,white,male,Dead,74,38,no,no,LUAD
+TCGA-05-4245,Stage IIIA,3,730,"Adenocarcinoma, NOS",T2,N2,M0,not reported,male,Alive,81,NA,no,no,LUAD
+TCGA-78-7540,Stage IB,1,881,"Bronchio-alveolar carcinoma, mucinous",T2,N0,M0,white,female,Dead,66,1197,no,no,LUAD
+TCGA-55-7576,Stage IB,1,670,"Adenocarcinoma, NOS",T2a,N0,M0,black or african american,male,Alive,54,NA,yes,no,LUAD
+TCGA-55-8615,Stage IIIA,3,446,"Adenocarcinoma, NOS",T3,N2,MX,white,male,Alive,67,NA,yes,yes,LUAD
+TCGA-49-4501,Stage IB,1,NA,"Adenocarcinoma, NOS",T2,N0,M0,white,female,Dead,67,1421,no,no,LUAD
+TCGA-86-7954,Stage IB,1,605,"Bronchiolo-alveolar adenocarcinoma, NOS",T2,N0,M0,white,female,Alive,68,NA,yes,no,LUAD
+TCGA-44-2655,Stage IA,1,1324,"Adenocarcinoma, NOS",T1,N0,M0,white,female,Alive,65,NA,no,no,LUAD
+TCGA-49-4505,Stage IIB,2,NA,"Adenocarcinoma, NOS",T2,N1,M0,white,female,Dead,61,428,no,no,LUAD
+TCGA-97-8177,Stage IB,1,499,Adenocarcinoma with mixed subtypes,T2a,N0,M0,white,female,Alive,59,NA,yes,no,LUAD
+TCGA-J2-A4AD,Stage IA,1,287,"Adenocarcinoma, NOS",T1a,N0,MX,white,female,Dead,61,550,no,no,LUAD
+TCGA-50-6592,Stage IB,1,NA,"Adenocarcinoma, NOS",T2,N0,M0,white,female,Dead,71,777,no,yes,LUAD
+TCGA-86-8674,Stage IIA,2,806,"Papillary adenocarcinoma, NOS",T2a,N1,M0,white,male,Alive,50,NA,yes,no,LUAD
+TCGA-55-6981,Stage IIIA,3,NA,"Adenocarcinoma, NOS",T1,N2,M0,white,female,Dead,53,1379,yes,yes,LUAD
+TCGA-55-7284,Stage IIB,2,121,"Bronchiolo-alveolar carcinoma, non-mucinous",T3,N0,MX,white,male,Dead,74,243,no,no,LUAD
+TCGA-91-6836,Stage IB,1,417,"Adenocarcinoma, NOS",T2,N0,MX,white,female,Alive,52,NA,no,no,LUAD
+TCGA-44-6146,Stage IIB,2,728,Mucinous adenocarcinoma,T3,N0,M0,white,male,Alive,64,NA,yes,no,LUAD
+TCGA-62-A46P,Stage IB,1,NA,Adenocarcinoma with mixed subtypes,T2,N0,M0,white,male,Dead,65,594,yes,no,LUAD
+TCGA-86-7955,Stage IB,1,1072,"Adenocarcinoma, NOS",T2a,N0,M0,white,male,Alive,62,NA,yes,yes,LUAD
+TCGA-50-6597,Stage IB,1,1015,"Adenocarcinoma, NOS",T2,N0,M0,white,female,Dead,79,1268,no,no,LUAD
+TCGA-91-A4BD,Stage IIA,2,603,"Adenocarcinoma, NOS",T1b,N1,MX,white,male,Alive,78,NA,no,no,LUAD
+TCGA-67-3771,Stage IA,1,610,"Adenocarcinoma, NOS",T1,N0,M0,black or african american,female,Alive,77,NA,not reported,not reported,LUAD
+TCGA-38-4625,Stage IB,1,2973,"Adenocarcinoma, NOS",T2a,N0,M0,white,female,Alive,66,NA,no,no,LUAD
+TCGA-86-8054,Stage IIB,2,1148,Acinar cell carcinoma,T2b,N1,M0,white,male,Alive,61,NA,yes,no,LUAD
+TCGA-50-5935,Stage IA,1,653,"Adenocarcinoma, NOS",T1,N0,M0,white,female,Dead,86,653,no,yes,LUAD
+TCGA-67-3776,Stage IIB,2,61,"Adenocarcinoma, NOS",T2,N1,M0,white,female,Alive,57,NA,not reported,not reported,LUAD
+TCGA-55-8089,Stage IA,1,100,"Adenocarcinoma, NOS",T1a,N0,M0,white,male,Dead,56,702,no,no,LUAD
+TCGA-67-6217,Stage IIA,2,422,"Adenocarcinoma, NOS",T2a,N1,M0,white,female,Alive,73,NA,no,no,LUAD
+TCGA-50-6590,Stage IB,1,NA,"Adenocarcinoma, NOS",T2,N0,M0,white,female,Dead,72,1288,yes,no,LUAD
+TCGA-97-8179,Stage IA,1,435,Acinar cell carcinoma,T1a,N0,M0,white,male,Alive,72,NA,no,no,LUAD
+TCGA-38-4629,Stage IIB,2,NA,"Adenocarcinoma, NOS",T3,N0,M0,white,male,Dead,68,864,no,no,LUAD
+TCGA-50-5939,Stage IB,1,NA,Adenocarcinoma with mixed subtypes,T2,N0,M0,white,male,Dead,85,460,no,no,LUAD
+TCGA-55-A48Y,Stage IIA,2,630,"Adenocarcinoma, NOS",T2b,N0,M0,white,male,Alive,69,NA,yes,no,LUAD
+TCGA-97-8176,Stage IIIA,3,252,Acinar cell carcinoma,T3,N1,M0,white,male,Dead,63,468,yes,yes,LUAD
+TCGA-50-5931,Stage IB,1,NA,"Adenocarcinoma, NOS",T2,N0,M0,white,female,Dead,75,434,no,no,LUAD
+TCGA-91-6829,Stage IB,1,NA,"Bronchiolo-alveolar carcinoma, non-mucinous",T2,N0,MX,white,male,Dead,78,1258,no,no,LUAD
+TCGA-49-6744,Stage IIA,2,1683,Adenocarcinoma with mixed subtypes,T2a,N1,MX,white,female,Alive,64,NA,yes,no,LUAD
+TCGA-50-5072,Stage IIIA,3,246,"Adenocarcinoma, NOS",T2,N2,M0,white,male,Dead,74,250,yes,yes,LUAD
+TCGA-MP-A4SW,Stage IIB,2,NA,"Adenocarcinoma, NOS",T2,N1,M0,white,male,Dead,53,1778,no,no,LUAD
+TCGA-78-7162,Stage IA,1,NA,Adenocarcinoma with mixed subtypes,T1,N0,M0,white,male,Dead,75,3169,no,no,LUAD
+TCGA-55-A48Z,Stage IIIB,3,651,Adenocarcinoma with mixed subtypes,T1a,N3,MX,white,female,Alive,60,NA,yes,yes,LUAD
+TCGA-78-8662,Stage IB,1,NA,"Adenocarcinoma, NOS",T2,N0,M0,not reported,female,Dead,53,3361,no,yes,LUAD
+TCGA-MN-A4N5,Stage IA,1,84,"Adenocarcinoma, NOS",T1a,N0,M0,white,male,Alive,63,NA,no,no,LUAD
+TCGA-78-8640,Stage IIA,2,7062,"Adenocarcinoma, NOS",T1,N1,M0,not reported,male,Alive,59,NA,no,no,LUAD
+TCGA-95-7562,Stage IIA,2,NA,"Adenocarcinoma, NOS",T2a,N1,M0,black or african american,male,Dead,71,87,yes,no,LUAD
+TCGA-73-4676,Stage IIA,2,164,"Adenocarcinoma, NOS",T2a,N1,M0,white,male,Dead,45,281,yes,yes,LUAD
+TCGA-55-1596,Stage IIB,2,2065,"Adenocarcinoma, NOS",T2,N1,M0,asian,male,Alive,55,NA,yes,no,LUAD
+TCGA-64-1680,Stage IV,4,1126,Adenocarcinoma with mixed subtypes,T2a,N2,M1,white,male,Alive,63,NA,yes,yes,LUAD
+TCGA-97-7552,Stage IB,1,1932,"Bronchio-alveolar carcinoma, mucinous",T2,N0,MX,white,male,Alive,70,NA,no,no,LUAD
+TCGA-69-7763,Stage IA,1,690,Adenocarcinoma with mixed subtypes,T1b,N0,M0,white,male,Alive,69,NA,no,no,LUAD
+TCGA-73-4670,Stage IV,4,131,"Adenocarcinoma, NOS",T2,N0,M1,white,female,Alive,69,NA,yes,no,LUAD
+TCGA-50-5944,Stage IA,1,1750,Acinar cell carcinoma,T1,N0,M0,white,female,Alive,69,NA,no,no,LUAD
+TCGA-64-5779,Stage IIIA,3,864,Acinar cell carcinoma,T2,N2,M0,white,male,Alive,61,NA,yes,yes,LUAD
+TCGA-75-5146,Stage IB,1,2368,"Bronchiolo-alveolar carcinoma, non-mucinous",T2,N0,M0,not reported,male,Alive,NA,NA,no,no,LUAD
+TCGA-97-7546,Stage IA,1,1285,Acinar cell carcinoma,T1,N0,MX,white,female,Alive,76,NA,yes,yes,LUAD
+TCGA-55-7911,Stage IA,1,537,"Adenocarcinoma, NOS",T1a,N0,MX,white,female,Alive,70,NA,no,no,LUAD
+TCGA-55-8511,Stage IB,1,552,"Adenocarcinoma, NOS",T2a,N0,MX,white,female,Alive,73,NA,no,no,LUAD
+TCGA-44-5644,Stage IB,1,863,"Adenocarcinoma, NOS",T2a,N0,NA,white,female,Alive,51,NA,no,no,LUAD
+TCGA-55-8512,Stage IV,4,3,"Bronchiolo-alveolar carcinoma, non-mucinous",T1a,N1,M1b,white,male,Dead,41,607,no,no,LUAD
+TCGA-75-5125,Stage IIB,2,NA,"Adenocarcinoma, NOS",T2,N1,M0,not reported,male,Dead,NA,2027,no,no,LUAD
+TCGA-38-4626,NA,NA,3674,"Adenocarcinoma, NOS",T2b,N0,M0,white,female,Alive,57,NA,no,no,LUAD
+TCGA-49-6742,Stage IIA,2,445,Mucinous adenocarcinoma,T2a,N1,M0,white,male,Dead,70,488,yes,no,LUAD
+TCGA-44-6144,Stage IA,1,723,"Adenocarcinoma, NOS",T1a,N0,M0,white,male,Alive,58,NA,yes,no,LUAD
+TCGA-75-6212,Stage IIB,2,NA,"Micropapillary carcinoma, NOS",T2,N1,M0,not reported,female,Dead,NA,1516,yes,no,LUAD
+TCGA-44-8119,Stage IIB,2,285,"Adenocarcinoma, NOS",T3,N0,M0,white,male,Alive,73,NA,no,no,LUAD
+TCGA-69-7764,Stage IA,1,414,Adenocarcinoma with mixed subtypes,T1b,N0,M0,white,male,Alive,75,NA,no,no,LUAD
+TCGA-38-4631,Stage IB,1,NA,"Adenocarcinoma, NOS",T2,N0,M0,white,female,Dead,72,354,no,no,LUAD
+TCGA-38-A44F,Stage IB,1,133,Acinar cell carcinoma,T2a,N0,M0,white,male,Alive,80,NA,no,no,LUAD
+TCGA-83-5908,Stage IA,1,824,"Adenocarcinoma, NOS",T1,N0,M0,white,female,Alive,59,NA,no,no,LUAD
+TCGA-L4-A4E6,Stage IA,1,435,"Adenocarcinoma, NOS",T1,N0,M0,white,male,Alive,67,NA,no,no,LUAD
+TCGA-44-5643,Stage IIIA,3,1013,"Adenocarcinoma, NOS",T2b,N2,M0,black or african american,male,Alive,53,NA,yes,yes,LUAD
+TCGA-86-8279,Stage IIA,2,949,"Adenocarcinoma, NOS",T2a,N1,M0,white,male,Alive,46,NA,yes,yes,LUAD
+TCGA-55-7724,Stage IB,1,705,"Adenocarcinoma, NOS",T2a,N0,MX,white,female,Alive,76,NA,no,no,LUAD
+TCGA-73-4662,Stage IA,1,2515,"Adenocarcinoma, NOS",T1,N0,M0,white,female,Alive,65,NA,no,no,LUAD
+TCGA-73-A9RS,Stage IIB,2,305,"Adenocarcinoma, NOS",T3,N0,M0,black or african american,male,Dead,41,340,yes,yes,LUAD
+TCGA-L9-A5IP,Stage IV,4,NA,"Adenocarcinoma, NOS",T3,N2,M1b,black or african american,female,Dead,40,58,no,no,LUAD
+TCGA-J2-8194,Stage IIB,2,724,Adenocarcinoma with mixed subtypes,T3,N0,MX,white,female,Alive,69,NA,yes,yes,LUAD
+TCGA-NJ-A4YI,Stage IIIA,3,NA,Acinar cell carcinoma,T2,N2,M0,white,female,Dead,87,4,no,no,LUAD
+TCGA-55-8299,Stage IA,1,216,"Adenocarcinoma, NOS",T1b,N0,MX,white,female,Dead,61,469,no,yes,LUAD
+TCGA-75-6211,Stage IB,1,NA,"Adenocarcinoma, NOS",T2,N0,M0,not reported,female,Dead,NA,NA,no,no,LUAD
+TCGA-78-7149,Stage IIIB,3,3940,Adenocarcinoma with mixed subtypes,T4,N0,M0,white,male,Alive,71,NA,no,no,LUAD
+TCGA-55-6987,Stage IA,1,2137,"Adenocarcinoma, NOS",T1,N0,M0,white,male,Alive,77,NA,no,no,LUAD
+TCGA-55-6980,Stage IA,1,2109,"Bronchiolo-alveolar carcinoma, non-mucinous",T1,N0,M0,white,male,Alive,56,NA,no,no,LUAD
+TCGA-91-6835,Stage IA,1,79,"Adenocarcinoma, NOS",T1,N0,M0,white,female,Alive,81,NA,no,no,LUAD
+TCGA-86-8585,Stage IB,1,353,"Solid carcinoma, NOS",T2a,N0,M0,white,male,Alive,57,NA,no,no,LUAD
+TCGA-62-8398,Stage IIIA,3,NA,Adenocarcinoma with mixed subtypes,T2,N2,M0,white,male,Dead,55,444,yes,no,LUAD
+TCGA-MP-A4T4,Stage IIB,2,NA,"Adenocarcinoma, NOS",T2,N1,M0,white,female,Dead,68,2617,no,no,LUAD
+TCGA-93-A4JP,Stage IV,4,578,"Papillary adenocarcinoma, NOS",TX,NX,M1b,asian,male,Alive,64,NA,yes,yes,LUAD
+TCGA-S2-AA1A,Stage IA,1,513,"Bronchio-alveolar carcinoma, mucinous",T1b,N0,M0,black or african american,female,Alive,68,NA,no,no,LUAD
+TCGA-50-5066,Stage IB,1,1442,Adenocarcinoma with mixed subtypes,T2,N0,M0,black or african american,male,Alive,72,NA,yes,no,LUAD
+TCGA-05-4398,Stage IIIB,3,1431,Adenocarcinoma with mixed subtypes,T4,N3,M0,not reported,female,Alive,47,NA,yes,no,LUAD
+TCGA-97-A4M6,Stage IA,1,568,Adenocarcinoma with mixed subtypes,T1a,N0,M0,white,female,Alive,45,NA,no,no,LUAD
+TCGA-75-6214,Stage IIIA,3,NA,"Adenocarcinoma, NOS",T2,N2,M0,not reported,female,Dead,NA,1115,no,yes,LUAD
+TCGA-L4-A4E5,Stage I,1,578,"Adenocarcinoma, NOS",T1,N0,M0,white,female,Alive,48,NA,no,no,LUAD
+TCGA-55-A48X,Stage IIA,2,689,"Adenocarcinoma, NOS",T1b,N1,M0,white,female,Alive,63,NA,yes,no,LUAD
+TCGA-44-6774,Stage IIIA,3,658,"Adenocarcinoma, NOS",T1,N2,M0,white,female,Alive,56,NA,yes,yes,LUAD
+TCGA-05-5423,Stage IIB,2,151,Adenocarcinoma with mixed subtypes,T2,N1,M0,not reported,male,Alive,65,NA,not reported,not reported,LUAD
+TCGA-05-4244,Stage IV,4,0,"Adenocarcinoma, NOS",T2,N2,M1,not reported,male,Alive,70,NA,not reported,not reported,LUAD
+TCGA-05-4382,Stage IB,1,607,Adenocarcinoma with mixed subtypes,T2,N0,M0,not reported,male,Alive,68,NA,no,yes,LUAD
+TCGA-97-A4M2,Stage IA,1,624,Adenocarcinoma with mixed subtypes,T1a,N0,M0,white,male,Alive,66,NA,no,no,LUAD
+TCGA-44-6777,Stage IB,1,NA,"Adenocarcinoma, NOS",T2,NX,MX,white,female,Dead,85,987,no,yes,LUAD
+TCGA-86-8055,Stage IIA,2,10,"Adenocarcinoma, NOS",T2a,N1,M0,white,male,Dead,79,124,no,no,LUAD
+TCGA-55-6982,Stage IIB,2,NA,"Adenocarcinoma, NOS",T2,N1,M0,white,female,Dead,79,995,yes,yes,LUAD
+TCGA-55-A4DF,Stage IA,1,47,"Adenocarcinoma, NOS",T1b,N0,MX,white,male,Dead,88,440,no,yes,LUAD
+TCGA-55-8096,Stage IB,1,47,"Adenocarcinoma, NOS",T2a,N0,MX,white,female,Dead,67,719,no,yes,LUAD
+TCGA-50-5930,Stage IIIA,3,NA,Adenocarcinoma with mixed subtypes,T2,N2,M0,white,male,Dead,47,282,yes,yes,LUAD
+TCGA-J2-8192,Stage IIA,2,739,"Adenocarcinoma, NOS",T2a,N1,MX,white,female,Alive,65,NA,yes,no,LUAD
+TCGA-67-3774,Stage IB,1,385,"Adenocarcinoma, NOS",T2,N0,M0,white,female,Alive,73,NA,not reported,not reported,LUAD
+TCGA-05-4426,Stage IB,1,791,Adenocarcinoma with mixed subtypes,T2,N0,M0,not reported,male,Alive,71,NA,not reported,not reported,LUAD
+TCGA-71-8520,Stage IB,1,3,"Adenocarcinoma, NOS",T2,N0,M0,asian,female,Dead,60,210,no,yes,LUAD
+TCGA-97-7553,Stage IA,1,1870,"Bronchiolo-alveolar carcinoma, non-mucinous",T1,N0,MX,white,female,Alive,58,NA,no,no,LUAD
+TCGA-MP-A4TD,Stage IIIA,3,NA,"Adenocarcinoma, NOS",T2,N2,M0,white,male,Dead,71,307,yes,no,LUAD
+TCGA-95-A4VN,Stage IIA,2,553,"Solid carcinoma, NOS",T2a,N1,M0,white,female,Alive,62,NA,no,no,LUAD
+TCGA-97-8171,Stage IV,4,568,"Papillary adenocarcinoma, NOS",T2a,N2,M1a,asian,male,Alive,81,NA,yes,no,LUAD
+TCGA-55-A492,Stage IA,1,596,"Adenocarcinoma, NOS",T1a,N0,MX,white,female,Alive,70,NA,no,no,LUAD
+TCGA-05-4430,Stage IB,1,761,Adenocarcinoma with mixed subtypes,T2,N0,M0,not reported,female,Alive,59,NA,not reported,not reported,LUAD
+TCGA-49-AAR0,Stage IA,1,4765,"Adenocarcinoma, NOS",T1,N0,MX,black or african american,male,Alive,57,NA,no,no,LUAD
+TCGA-55-A57B,Stage IA,1,546,Adenocarcinoma with mixed subtypes,T1b,N0,M0,black or african american,female,Alive,80,NA,no,no,LUAD
+TCGA-L9-A443,Stage IA,1,116,"Adenocarcinoma, NOS",T1a,N0,MX,white,female,Dead,63,193,no,no,LUAD
+TCGA-95-7567,Stage IIB,2,568,Adenocarcinoma with mixed subtypes,T2b,N1,M0,white,male,Alive,61,NA,yes,no,LUAD
+TCGA-44-3396,Stage IIIA,3,1130,"Adenocarcinoma, NOS",T2,N2,M0,white,female,Alive,74,NA,yes,no,LUAD
+TCGA-44-6775,Stage IB,1,705,"Adenocarcinoma, NOS",T2a,N0,MX,white,female,Alive,72,NA,no,no,LUAD
+TCGA-05-4420,Stage IB,1,912,Adenocarcinoma with mixed subtypes,T2,N0,M0,not reported,male,Alive,41,NA,no,no,LUAD
+TCGA-93-A4JO,Stage IA,1,NA,Adenocarcinoma with mixed subtypes,T1a,N0,MX,white,male,Dead,70,33,no,no,LUAD
+TCGA-69-7974,Stage IIIA,3,184,Adenocarcinoma with mixed subtypes,T2a,N2,MX,white,female,Alive,54,NA,yes,yes,LUAD
+TCGA-55-A4DG,Stage IA,1,608,"Adenocarcinoma, NOS",T1b,N0,MX,white,male,Alive,71,NA,no,no,LUAD
+TCGA-67-4679,NA,NA,448,"Adenocarcinoma, NOS",T3,N0,M0,white,male,Alive,69,NA,not reported,not reported,LUAD
+TCGA-55-8506,Stage IIB,2,11,"Adenocarcinoma, NOS",T3,N0,MX,white,female,Alive,62,NA,not reported,not reported,LUAD
+TCGA-05-5428,Stage IIA,2,670,Adenocarcinoma with mixed subtypes,T1b,N1,M0,not reported,male,Alive,57,NA,yes,yes,LUAD
+TCGA-44-7672,Stage IA,1,719,"Adenocarcinoma, NOS",T1b,N0,M0,white,female,Alive,52,NA,no,no,LUAD
+TCGA-NJ-A4YP,Stage IB,1,50,Adenocarcinoma with mixed subtypes,T2a,N0,M0,white,male,Alive,52,NA,no,no,LUAD
+TCGA-O1-A52J,Stage IA,1,NA,"Adenocarcinoma, NOS",T1,N0,MX,white,female,Dead,74,1798,no,no,LUAD
+TCGA-78-8655,Stage IA,1,2360,Adenocarcinoma with mixed subtypes,T1,N0,M0,not reported,female,Alive,77,NA,no,no,LUAD
+TCGA-97-7554,Stage IIIA,3,775,"Papillary adenocarcinoma, NOS",T2a,N2,M0,white,female,Alive,83,NA,yes,no,LUAD
+TCGA-53-7813,Stage IIIB,3,424,"Bronchiolo-alveolar carcinoma, non-mucinous",T4,N0,M0,white,female,Alive,51,NA,yes,no,LUAD
+TCGA-44-7662,Stage IB,1,218,"Adenocarcinoma, NOS",T2a,N0,MX,white,male,Alive,61,NA,no,no,LUAD
+TCGA-95-7944,Stage IA,1,377,"Adenocarcinoma, NOS",T1a,N0,M0,white,male,Alive,71,NA,no,no,LUAD
+TCGA-55-7995,Stage IA,1,889,"Adenocarcinoma, NOS",T1b,N0,M0,white,female,Alive,73,NA,yes,yes,LUAD
+TCGA-69-8253,Stage IIA,2,426,Adenocarcinoma with mixed subtypes,T1a,N1,MX,black or african american,female,Alive,59,NA,yes,no,LUAD
+TCGA-97-8547,Stage IIIA,3,657,Acinar cell carcinoma,T2a,N2,MX,not reported,female,Alive,78,NA,yes,no,LUAD
+TCGA-73-7498,Stage IA,1,1189,"Bronchiolo-alveolar carcinoma, non-mucinous",T1b,N0,M0,white,female,Alive,58,NA,yes,no,LUAD
+TCGA-86-8358,Stage IB,1,653,"Adenocarcinoma, NOS",T2a,N0,M0,white,male,Alive,44,NA,no,no,LUAD
+TCGA-86-8056,Stage IIIA,3,139,Adenocarcinoma with mixed subtypes,T4,N0,M0,white,female,Alive,63,NA,not reported,not reported,LUAD
+TCGA-95-7039,Stage IIB,2,1272,"Adenocarcinoma, NOS",T3,N0,MX,white,female,Alive,54,NA,no,no,LUAD
+TCGA-49-AAR9,Stage IIB,2,NA,"Adenocarcinoma, NOS",T3,N0,MX,black or african american,male,Dead,61,260,no,no,LUAD
+TCGA-69-7980,Stage I,1,411,"Adenocarcinoma, NOS",T1b,N0,M0,white,female,Alive,70,NA,no,no,LUAD
+TCGA-75-7027,Stage IB,1,3059,"Adenocarcinoma, NOS",T2,N0,M0,not reported,male,Alive,NA,NA,yes,yes,LUAD
+TCGA-50-8460,Stage IA,1,829,"Papillary adenocarcinoma, NOS",T1a,N0,M0,white,male,Alive,74,NA,no,yes,LUAD
+TCGA-73-4668,Stage IIB,2,467,"Micropapillary carcinoma, NOS",T2,N1,M0,american indian or alaska native,female,Alive,66,NA,yes,no,LUAD
+TCGA-91-8497,Stage IA,1,174,"Adenocarcinoma, NOS",T1a,N0,MX,white,female,Dead,75,434,no,no,LUAD
+TCGA-55-8207,Stage IB,1,977,Acinar cell carcinoma,T2a,N0,MX,white,male,Alive,73,NA,no,no,LUAD
+TCGA-05-4249,Stage IB,1,1523,"Adenocarcinoma, NOS",T2,N0,M0,not reported,male,Alive,67,NA,no,no,LUAD
+TCGA-55-7910,Stage IIA,2,1040,"Adenocarcinoma, NOS",T2b,N0,M0,black or african american,female,Alive,50,NA,yes,no,LUAD
+TCGA-55-8092,Stage IIB,2,26,"Adenocarcinoma, NOS",T3,N0,MX,white,male,Dead,75,154,no,no,LUAD
+TCGA-78-7166,Stage IIB,2,NA,"Adenocarcinoma, NOS",T2,N1,M0,white,male,Dead,84,258,no,yes,LUAD
+TCGA-78-7152,Stage IB,1,1202,Adenocarcinoma with mixed subtypes,T2,N0,M0,white,male,Dead,65,1215,no,yes,LUAD
+TCGA-49-4506,Stage IIB,2,NA,"Adenocarcinoma, NOS",T2,N1,M0,white,female,Dead,68,999,yes,yes,LUAD
+TCGA-78-7159,Stage IA,1,1974,Adenocarcinoma with mixed subtypes,T1,NX,M0,white,female,Alive,60,NA,no,no,LUAD
+TCGA-44-7659,Stage IA,1,691,"Adenocarcinoma, NOS",T1b,N0,MX,white,male,Alive,70,NA,no,no,LUAD
+TCGA-55-7227,Stage IIIA,3,53,"Adenocarcinoma, NOS",T3,N1,MX,white,male,Dead,77,952,yes,no,LUAD
+TCGA-78-7145,Stage IV,4,NA,"Adenocarcinoma, NOS",T4,N1,M1,white,female,Dead,52,826,yes,no,LUAD
+TCGA-55-A490,Stage IIA,2,48,"Adenocarcinoma, NOS",T2b,N0,MX,white,male,Dead,78,99,yes,no,LUAD
+TCGA-75-7031,Stage IB,1,NA,"Adenocarcinoma, NOS",T2,N0,M0,not reported,female,Alive,NA,NA,no,no,LUAD
+TCGA-55-7727,Stage IIIA,3,119,"Adenocarcinoma, NOS",T1a,N2,MX,white,male,Alive,70,NA,yes,no,LUAD
+TCGA-55-8508,Stage IIA,2,617,Mucinous adenocarcinoma,T2a,N1,MX,black or african american,female,Alive,60,NA,yes,no,LUAD
+TCGA-49-AARO,Stage IA,1,3759,"Papillary adenocarcinoma, NOS",T1a,N0,MX,black or african american,female,Alive,39,NA,yes,yes,LUAD
+TCGA-86-A4D0,Stage IIA,2,30,"Adenocarcinoma, NOS",T2b,N0,M0,white,male,Dead,48,116,yes,no,LUAD
+TCGA-NJ-A4YQ,Stage IA,1,1432,Adenocarcinoma with mixed subtypes,T1b,N0,M0,white,female,Alive,69,NA,no,no,LUAD
+TCGA-93-8067,Stage IB,1,186,"Adenocarcinoma, NOS",T2a,N0,MX,asian,male,Alive,77,NA,no,no,LUAD
+TCGA-78-7143,Stage IB,1,NA,"Bronchiolo-alveolar carcinoma, non-mucinous",T2,N0,M0,white,female,Dead,62,4961,no,no,LUAD
+TCGA-86-8673,Stage IB,1,862,"Bronchiolo-alveolar carcinoma, non-mucinous",T2,N0,M0,white,male,Alive,61,NA,no,no,LUAD
+TCGA-69-7765,NA,NA,165,Adenocarcinoma with mixed subtypes,T4,N0,MX,black or african american,male,Alive,56,NA,yes,no,LUAD
+TCGA-55-7816,Stage IV,4,44,"Adenocarcinoma, NOS",TX,NX,MX,white,female,Dead,49,468,no,no,LUAD
+TCGA-49-4487,Stage IA,1,NA,"Adenocarcinoma, NOS",T1,N0,M0,white,female,Dead,72,855,no,yes,LUAD
+TCGA-53-7624,Stage IV,4,NA,"Adenocarcinoma, NOS",T2,N0,M1,white,female,Dead,40,1043,yes,yes,LUAD
+TCGA-MP-A4TE,Stage IIA,2,NA,"Adenocarcinoma, NOS",T2b,N0,MX,white,male,Dead,56,896,yes,no,LUAD
+TCGA-44-2659,Stage IIB,2,1367,"Adenocarcinoma, NOS",T1,N1,M0,white,female,Alive,65,NA,yes,no,LUAD
+TCGA-44-A4SU,Stage IA,1,76,"Adenocarcinoma, NOS",T1a,N0,MX,white,female,Dead,67,409,no,no,LUAD
+TCGA-55-7907,Stage IIA,2,16,"Adenocarcinoma, NOS",T2a,N1,MX,white,male,Dead,77,343,no,no,LUAD
+TCGA-97-A4M3,Stage IA,1,540,Adenocarcinoma with mixed subtypes,T1b,N0,M0,white,female,Alive,69,NA,no,no,LUAD
+TCGA-49-AAR3,Stage IIB,2,1893,"Adenocarcinoma, NOS",T2,N1,MX,black or african american,male,Alive,69,NA,yes,no,LUAD
+TCGA-91-7771,Stage IIB,2,492,"Adenocarcinoma, NOS",T3,N0,MX,white,male,Alive,62,NA,yes,no,LUAD
+TCGA-50-5068,Stage IIB,2,1499,"Adenocarcinoma, NOS",T2,N1,MX,white,female,Dead,59,1499,yes,no,LUAD
+TCGA-91-6830,Stage IIA,2,60,"Adenocarcinoma, NOS",T1,N1,MX,white,female,Alive,65,NA,no,yes,LUAD
+TCGA-78-7153,Stage IB,1,3635,Adenocarcinoma with mixed subtypes,T2,N0,M0,white,female,Alive,65,NA,no,no,LUAD
+TCGA-78-8648,Stage IIB,2,NA,"Adenocarcinoma, NOS",T3,N0,M0,not reported,female,Dead,58,1209,no,no,LUAD
+TCGA-75-6206,Stage IB,1,2590,"Adenocarcinoma, NOS",T2,N0,M0,not reported,male,Alive,NA,NA,no,no,LUAD
+TCGA-80-5608,Stage IA,1,2832,"Adenocarcinoma, NOS",T1,N0,M0,not reported,female,Alive,NA,NA,no,no,LUAD
+TCGA-55-6972,Stage IB,1,1475,"Papillary adenocarcinoma, NOS",T2,N0,M0,white,male,Dead,72,1632,no,no,LUAD
+TCGA-35-5375,Stage IIIA,3,264,"Adenocarcinoma, NOS",T2,N2,M0,white,male,Alive,61,NA,not reported,not reported,LUAD
+TCGA-95-7043,Stage IA,1,37,Adenocarcinoma with mixed subtypes,T1a,N0,MX,white,female,Dead,63,503,yes,no,LUAD
+TCGA-44-6778,Stage IA,1,1864,"Adenocarcinoma, NOS",T1,N0,MX,black or african american,male,Alive,59,NA,no,no,LUAD
+TCGA-MP-A4T6,Stage IIIA,3,NA,"Adenocarcinoma, NOS",T1,N2,MX,white,female,Dead,76,1790,no,no,LUAD
+TCGA-64-5775,Stage IIIA,3,NA,"Adenocarcinoma, NOS",T4,N0,M0,white,male,Dead,71,62,no,no,LUAD
+TCGA-97-A4M5,Stage IA,1,634,Adenocarcinoma with mixed subtypes,T1b,N0,M0,white,male,Alive,83,NA,no,no,LUAD
+TCGA-97-7547,Stage IB,1,1965,"Papillary adenocarcinoma, NOS",T2,N0,MX,white,female,Alive,67,NA,yes,no,LUAD
+TCGA-55-7913,Stage IA,1,62,"Adenocarcinoma, NOS",T1b,N0,MX,black or african american,female,Dead,61,561,no,yes,LUAD
+TCGA-44-6145,Stage IA,1,595,"Adenocarcinoma, NOS",T1,N0,M0,white,female,Alive,62,NA,no,no,LUAD
+TCGA-49-4486,Stage IA,1,NA,"Adenocarcinoma, NOS",T1,N0,M0,white,male,Dead,72,2318,no,no,LUAD
+TCGA-44-7661,Stage IB,1,366,"Adenocarcinoma, NOS",T2a,N0,M0,white,female,Dead,69,557,yes,yes,LUAD
+TCGA-62-8399,Stage IIIA,3,2696,Adenocarcinoma with mixed subtypes,T2,N2,M0,white,male,Alive,62,NA,no,no,LUAD
+TCGA-05-5429,Stage IIIA,3,30,"Adenocarcinoma, NOS",T3,N2,M0,not reported,male,Dead,60,275,not reported,not reported,LUAD
+TCGA-86-7713,Stage IIA,2,1157,"Adenocarcinoma, NOS",T2b,N0,M0,white,male,Alive,70,NA,yes,no,LUAD
+TCGA-44-2662,Stage IB,1,1280,"Adenocarcinoma, NOS",T2,N0,M0,white,male,Alive,65,NA,yes,no,LUAD
+TCGA-67-6216,Stage IA,1,141,"Adenocarcinoma, NOS",T1a,N0,M0,white,female,Alive,57,NA,no,no,LUAD
+TCGA-44-3919,Stage IA,1,190,"Adenocarcinoma, NOS",T1,N0,M0,white,female,Dead,71,1026,no,yes,LUAD
+TCGA-73-4659,Stage IIIA,3,711,"Adenocarcinoma, NOS",T2,N2,M0,white,male,Dead,66,711,yes,yes,LUAD
+TCGA-86-8073,Stage IB,1,740,"Bronchiolo-alveolar adenocarcinoma, NOS",T2a,N0,M0,white,male,Alive,58,NA,no,no,LUAD
+TCGA-55-7994,Stage IIB,2,603,"Adenocarcinoma, NOS",T3,N0,MX,white,male,Alive,81,NA,yes,no,LUAD
+TCGA-69-A59K,Stage IIB,2,591,Adenocarcinoma with mixed subtypes,T3,N0,M0,black or african american,female,Alive,60,NA,yes,no,LUAD
+TCGA-MN-A4N4,Stage IA,1,1175,"Adenocarcinoma, NOS",T1b,N0,M0,white,male,Alive,57,NA,no,no,LUAD
+TCGA-55-8514,Stage IB,1,520,"Adenocarcinoma, NOS",T2a,N0,MX,black or african american,female,Alive,70,NA,no,no,LUAD
+TCGA-05-4410,Stage IB,1,0,Adenocarcinoma with mixed subtypes,T2,N0,M0,not reported,male,Alive,62,NA,not reported,not reported,LUAD
+TCGA-05-4418,Stage IIIA,3,NA,Adenocarcinoma with mixed subtypes,T3,N2,M0,not reported,male,Dead,69,274,not reported,not reported,LUAD
+TCGA-55-1595,Stage IA,1,1479,"Clear cell adenocarcinoma, NOS",T1,N0,M0,asian,female,Alive,74,NA,no,no,LUAD
+TCGA-55-8094,Stage IV,4,541,"Adenocarcinoma, NOS",T2b,N0,M1b,white,male,Alive,51,NA,yes,yes,LUAD
+TCGA-99-AA5R,Stage IA,1,658,"Adenocarcinoma, NOS",T1a,N0,M0,black or african american,female,Alive,70,NA,no,no,LUAD
+TCGA-55-7914,Stage IIA,2,3,"Adenocarcinoma, NOS",T1b,N1,MX,white,female,Dead,71,187,yes,no,LUAD
+TCGA-49-6767,Stage IIB,2,677,"Adenocarcinoma, NOS",T3,N0,MX,white,female,Alive,46,NA,not reported,not reported,LUAD
+TCGA-55-8507,Stage IA,1,418,"Adenocarcinoma, NOS",T1a,N0,MX,white,male,Alive,53,NA,no,no,LUAD
+TCGA-55-6969,Stage IB,1,1239,"Adenocarcinoma, NOS",T2,N0,M0,white,male,Alive,52,NA,not reported,not reported,LUAD
+TCGA-55-1594,Stage IIIA,3,1178,"Adenocarcinoma, NOS",T2,N2,M0,white,male,Alive,68,NA,not reported,not reported,LUAD
+TCGA-49-4488,Stage IA,1,NA,"Adenocarcinoma, NOS",T1,N0,MX,white,female,Dead,74,869,no,no,LUAD
+TCGA-86-8280,Stage IIA,2,701,"Bronchiolo-alveolar carcinoma, non-mucinous",T2b,N0,M0,white,female,Alive,54,NA,yes,no,LUAD
+TCGA-44-A47G,Stage IA,1,351,"Adenocarcinoma, NOS",T1,N0,M0,white,female,Alive,73,NA,no,no,LUAD
+TCGA-78-7536,Stage IIIA,3,NA,"Adenocarcinoma, NOS",T2,N2,M0,white,male,Dead,69,244,no,yes,LUAD
+TCGA-91-6831,Stage IB,1,310,"Adenocarcinoma, NOS",T2,N0,MX,white,male,Alive,66,NA,no,no,LUAD
+TCGA-MP-A4T9,Stage IIIA,3,NA,"Adenocarcinoma, NOS",T2,N2,MX,white,female,Dead,54,1265,yes,yes,LUAD
+TCGA-MP-A4SV,Stage IB,1,NA,"Adenocarcinoma, NOS",T2,N0,M0,not reported,male,Dead,67,2620,no,no,LUAD
+TCGA-69-7973,Stage IB,1,230,Adenocarcinoma with mixed subtypes,T2a,N0,M0,white,female,Alive,42,NA,yes,no,LUAD
+TCGA-44-3917,Stage IB,1,1183,"Adenocarcinoma, NOS",T2,N0,M0,white,female,Alive,33,NA,no,no,LUAD
+TCGA-05-4402,Stage IV,4,NA,Adenocarcinoma with mixed subtypes,T2,NX,M1,not reported,female,Dead,57,244,yes,no,LUAD
+TCGA-62-8394,Stage IIIB,3,NA,Adenocarcinoma with mixed subtypes,T4,N2,M0,white,female,Dead,65,139,yes,no,LUAD
+TCGA-44-5645,Stage IA,1,852,"Adenocarcinoma, NOS",T1,NX,NA,black or african american,female,Alive,61,NA,no,no,LUAD
+TCGA-75-7030,Stage IIB,2,NA,"Adenocarcinoma, NOS",T3,N0,M0,not reported,male,Alive,NA,NA,yes,no,LUAD
+TCGA-49-AAR4,Stage IIIA,3,NA,"Adenocarcinoma, NOS",T2,N2,MX,black or african american,male,Dead,51,879,yes,yes,LUAD
+TCGA-86-A4JF,Stage IIB,2,536,"Adenocarcinoma, NOS",T3,N0,M0,white,male,Dead,56,737,yes,no,LUAD
+TCGA-73-7499,Stage IB,1,715,Adenocarcinoma with mixed subtypes,T2a,N0,M0,white,female,Dead,81,1531,no,no,LUAD
+TCGA-95-7947,Stage IA,1,477,Adenocarcinoma with mixed subtypes,T1a,N0,M0,white,male,Alive,67,NA,no,no,LUAD
+TCGA-55-7903,Stage IA,1,567,"Adenocarcinoma, NOS",T1b,N0,MX,white,male,Alive,64,NA,no,no,LUAD
+TCGA-05-4427,Stage IIB,2,791,Adenocarcinoma with mixed subtypes,T2,N1,M0,not reported,female,Alive,65,NA,yes,no,LUAD
+TCGA-75-5122,Stage IB,1,NA,"Adenocarcinoma, NOS",T2,N0,M0,not reported,male,Dead,NA,NA,no,no,LUAD
+TCGA-62-A46U,Stage IIB,2,2067,Adenocarcinoma with mixed subtypes,T2,N1,M0,white,female,Alive,71,NA,yes,no,LUAD
+TCGA-55-8087,Stage IB,1,462,"Adenocarcinoma, NOS",T2a,N0,MX,white,female,Alive,59,NA,no,no,LUAD
+TCGA-MP-A4TH,Stage IA,1,741,"Adenocarcinoma, NOS",T1a,N0,M0,white,female,Alive,70,NA,no,no,LUAD
+TCGA-MP-A4T2,Stage IA,1,NA,"Adenocarcinoma, NOS",T1,N0,M0,white,male,Dead,71,1136,no,yes,LUAD
+TCGA-44-A47A,Stage IB,1,466,"Adenocarcinoma, NOS",T2a,N0,MX,white,female,Alive,78,NA,no,yes,LUAD
+TCGA-62-A472,Stage IIB,2,910,"Adenocarcinoma, NOS",T3,N0,M0,white,male,Alive,70,NA,no,yes,LUAD
+TCGA-80-5611,Stage IB,1,2595,"Solid carcinoma, NOS",T2,N0,M0,not reported,male,Alive,NA,NA,no,no,LUAD
+TCGA-53-A4EZ,Stage IIA,2,1071,Acinar cell carcinoma,T2a,N1,MX,white,male,Alive,63,NA,yes,yes,LUAD
+TCGA-J2-A4AE,Stage IA,1,1079,"Adenocarcinoma, NOS",T1a,N0,MX,white,female,Alive,77,NA,no,no,LUAD
+TCGA-86-8359,Stage IIIA,3,26,"Adenocarcinoma, NOS",T3,N2,M0,white,male,Dead,52,444,not reported,not reported,LUAD
+TCGA-78-7542,Stage IB,1,NA,"Adenocarcinoma, NOS",T2,N0,M0,white,male,Dead,56,321,not reported,not reported,LUAD
+TCGA-99-8032,Stage IA,1,44,"Adenocarcinoma, NOS",T1a,N0,M0,white,male,Alive,61,NA,no,no,LUAD
+TCGA-97-7938,Stage IA,1,NA,"Bronchiolo-alveolar carcinoma, non-mucinous",T1a,N0,MX,white,female,Dead,76,18,no,no,LUAD
+TCGA-44-7667,Stage IIB,2,1097,"Adenocarcinoma, NOS",T3,N0,MX,white,female,Alive,49,NA,no,no,LUAD
+TCGA-NJ-A4YG,Stage IB,1,2261,Adenocarcinoma with mixed subtypes,T2,N0,M0,white,male,Alive,65,NA,no,no,LUAD
+TCGA-55-8302,Stage IB,1,478,"Adenocarcinoma, NOS",T2,N0,MX,white,male,Alive,54,NA,no,no,LUAD
+TCGA-78-7147,Stage IIB,2,NA,"Adenocarcinoma, NOS",T2,N1,M0,white,female,Dead,67,586,no,no,LUAD
+TCGA-78-7148,Stage IIB,2,NA,Adenocarcinoma with mixed subtypes,T2,N1,M0,white,male,Dead,71,626,no,no,LUAD
+TCGA-38-7271,Stage IA,1,NA,"Adenocarcinoma, NOS",T1,N0,M0,white,female,Dead,72,800,no,no,LUAD
+TCGA-50-6595,Stage IIIA,3,NA,"Adenocarcinoma, NOS",T2,N2,M0,white,female,Dead,74,189,yes,yes,LUAD
+TCGA-91-A4BC,Stage IIA,2,44,"Adenocarcinoma, NOS",T2b,N0,MX,white,male,Alive,59,NA,not reported,not reported,LUAD
+TCGA-44-8120,Stage IB,1,260,"Adenocarcinoma, NOS",T2a,N0,M0,black or african american,male,Alive,58,NA,no,no,LUAD
+TCGA-50-5932,Stage IIB,2,1091,"Adenocarcinoma, NOS",T2,N1,M0,white,male,Dead,75,1235,yes,no,LUAD
+TCGA-50-6594,Stage IIIA,3,NA,"Adenocarcinoma, NOS",T3,N2,M0,black or african american,female,Dead,79,370,no,yes,LUAD
+TCGA-86-8076,Stage IA,1,993,"Papillary adenocarcinoma, NOS",T1,N0,M0,white,male,Alive,42,NA,yes,no,LUAD
+TCGA-93-7347,Stage IA,1,683,Adenocarcinoma with mixed subtypes,T1a,N0,MX,white,female,Alive,76,NA,no,no,LUAD
+TCGA-38-4632,Stage IV,4,NA,"Adenocarcinoma, NOS",T2,N1,M1,black or african american,male,Dead,42,1357,no,no,LUAD
+TCGA-55-6984,Stage IIB,2,NA,"Adenocarcinoma, NOS",T2,N1,M0,white,female,Dead,71,760,yes,no,LUAD
+TCGA-95-8039,Stage IA,1,830,Acinar cell carcinoma,T1,N0,MX,white,male,Alive,72,NA,yes,yes,LUAD
+TCGA-55-6712,Stage IIA,2,24,"Adenocarcinoma, NOS",T2a,N1,MX,white,male,Dead,71,171,yes,no,LUAD
+TCGA-38-4630,Stage IB,1,NA,"Papillary adenocarcinoma, NOS",T2,N0,M0,white,female,Dead,75,1073,no,yes,LUAD
+TCGA-44-6147,Stage IA,1,845,"Adenocarcinoma, NOS",T1b,NX,M0,white,female,Alive,67,NA,no,no,LUAD
+TCGA-MP-A4TI,Stage IIA,2,NA,"Adenocarcinoma, NOS",T2a,N1,M0,white,male,Dead,72,429,yes,yes,LUAD
+TCGA-44-2661,Stage IA,1,1159,"Adenocarcinoma, NOS",T1,N0,M0,white,female,Alive,69,NA,no,no,LUAD
+TCGA-NJ-A55O,Stage IIA,2,13,Mucinous adenocarcinoma,T1b,N1,M0,white,female,Alive,56,NA,no,no,LUAD
+TCGA-97-8174,Stage IIA,2,NA,"Papillary adenocarcinoma, NOS",T2b,N0,M0,white,male,Dead,67,164,yes,no,LUAD
+TCGA-97-8175,Stage IB,1,551,"Solid carcinoma, NOS",T2a,N0,M0,white,female,Alive,55,NA,yes,yes,LUAD
+TCGA-55-6971,Stage IB,1,1400,"Adenocarcinoma, NOS",T2,N0,MX,white,female,Alive,59,NA,no,no,LUAD
+TCGA-05-4405,Stage IB,1,610,Adenocarcinoma with mixed subtypes,T2,N0,M0,not reported,female,Alive,74,NA,no,no,LUAD
+TCGA-55-7573,Stage IA,1,487,"Adenocarcinoma, NOS",T1b,N0,MX,white,female,Alive,72,NA,no,no,LUAD
+TCGA-44-A47F,Stage IIB,2,337,"Adenocarcinoma, NOS",T2b,N1,M0,white,male,Alive,74,NA,yes,no,LUAD
+TCGA-MP-A4TJ,Stage IA,1,NA,Signet ring cell carcinoma,T1,N0,M0,not reported,female,Dead,62,339,no,no,LUAD
+TCGA-49-4510,Stage IIB,2,NA,"Adenocarcinoma, NOS",T2,N1,M0,black or african american,female,Dead,51,896,yes,yes,LUAD
+TCGA-64-1678,NA,NA,1189,"Adenocarcinoma, NOS",T2b,N0,M0,white,female,Alive,70,NA,yes,no,LUAD
+TCGA-62-8397,Stage IIB,2,1289,Adenocarcinoma with mixed subtypes,T3,N0,M0,white,female,Alive,70,NA,no,no,LUAD
+TCGA-62-A46V,Stage IB,1,2199,Adenocarcinoma with mixed subtypes,T2,N0,M0,white,female,Alive,78,NA,no,no,LUAD
+TCGA-75-5126,Stage IIIA,3,NA,"Papillary adenocarcinoma, NOS",T3,N2,M0,not reported,female,Alive,NA,NA,no,no,LUAD
+TCGA-44-2664,Stage IA,1,1251,"Adenocarcinoma, NOS",T1,N0,M0,black or african american,female,Alive,66,NA,no,yes,LUAD
+TCGA-91-6849,Stage IIIA,3,35,"Adenocarcinoma, NOS",T2,N2,MX,black or african american,female,Alive,75,NA,not reported,not reported,LUAD
+TCGA-50-5044,Stage IIIB,3,NA,"Adenocarcinoma, NOS",T4,N1,M0,white,female,Dead,72,624,yes,yes,LUAD
+TCGA-64-1676,Stage IA,1,1728,"Adenocarcinoma, NOS",T1a,N0,M0,white,male,Alive,58,NA,no,no,LUAD
+TCGA-55-8510,Stage IB,1,539,"Adenocarcinoma, NOS",T2a,N0,MX,white,female,Alive,55,NA,no,no,LUAD
+TCGA-44-A47B,Stage IB,1,287,"Adenocarcinoma, NOS",T2a,N0,M0,white,male,Alive,79,NA,no,no,LUAD
+TCGA-99-7458,Stage IIIA,3,747,"Bronchiolo-alveolar carcinoma, non-mucinous",T4,N0,M0,white,female,Alive,74,NA,yes,no,LUAD
+TCGA-49-AAQV,Stage II,2,NA,Adenocarcinoma with mixed subtypes,T1,N1,MX,black or african american,female,Dead,63,677,no,yes,LUAD
+TCGA-99-8028,Stage IA,1,1118,"Adenocarcinoma, NOS",T1a,N0,M0,black or african american,female,Alive,50,NA,no,no,LUAD
+TCGA-97-7937,Stage IB,1,564,"Micropapillary carcinoma, NOS",T2a,N0,MX,white,male,Alive,65,NA,no,no,LUAD
+TCGA-MP-A4TA,Stage IA,1,NA,"Adenocarcinoma, NOS",T1,N0,M0,white,female,Dead,75,950,yes,yes,LUAD
+TCGA-78-7220,Stage IIIA,3,NA,Adenocarcinoma with mixed subtypes,T2,N2,M0,white,female,Dead,53,807,no,yes,LUAD
+TCGA-78-7167,Stage IV,4,NA,"Papillary adenocarcinoma, NOS",T2,N0,M1,white,male,Dead,77,2681,no,no,LUAD
+TCGA-55-5899,NA,NA,930,"Adenocarcinoma, NOS",T1a,N1,M0,white,male,Alive,58,NA,yes,no,LUAD
+TCGA-55-7570,Stage IA,1,824,"Adenocarcinoma, NOS",T1a,N0,MX,black or african american,male,Alive,60,NA,no,no,LUAD
+TCGA-49-AARQ,Stage I,1,6732,"Adenocarcinoma, NOS",T2,N0,MX,black or african american,female,Alive,41,NA,no,no,LUAD
+TCGA-44-3398,Stage IA,1,1163,"Adenocarcinoma, NOS",T1b,N0,M0,white,female,Alive,77,NA,no,no,LUAD
+TCGA-L9-A50W,Stage IIA,2,266,Adenocarcinoma with mixed subtypes,T1b,N1,MX,black or african american,male,Dead,75,442,no,no,LUAD
+TCGA-64-5781,Stage IB,1,1559,Adenocarcinoma with mixed subtypes,T2,N0,M0,white,female,Alive,55,NA,no,no,LUAD
+TCGA-86-8278,Stage IIB,2,944,Mucinous adenocarcinoma,T2,N1,M0,white,female,Alive,63,NA,no,no,LUAD
+TCGA-75-6203,Stage IIIA,3,NA,"Adenocarcinoma, NOS",T2,N2,M0,not reported,female,Alive,NA,NA,yes,no,LUAD
+TCGA-55-8614,Stage IB,1,536,"Adenocarcinoma, NOS",T2a,N0,MX,white,male,Alive,76,NA,no,no,LUAD
+TCGA-44-2656,Stage IB,1,1429,"Adenocarcinoma, NOS",T2,N0,M0,white,male,Alive,59,NA,no,no,LUAD
+TCGA-50-6673,Stage I,1,NA,"Adenocarcinoma, NOS",T1,N0,M0,white,female,Dead,84,22,no,yes,LUAD
+TCGA-62-8402,Stage IIIA,3,1445,Adenocarcinoma with mixed subtypes,T2,N2,M0,white,female,Dead,73,1498,yes,yes,LUAD
+TCGA-78-7633,Stage IB,1,994,Adenocarcinoma with mixed subtypes,T2,N0,M0,white,male,Dead,67,1528,not reported,not reported,LUAD
+TCGA-35-4122,Stage IA,1,225,"Adenocarcinoma, NOS",T1,N0,M0,white,male,Alive,69,NA,not reported,not reported,LUAD
+TCGA-05-4422,Stage IB,1,365,Adenocarcinoma with mixed subtypes,T2,N0,M0,not reported,male,Alive,68,NA,not reported,not reported,LUAD
+TCGA-78-7535,Stage IB,1,NA,"Adenocarcinoma, NOS",T2,N0,M0,white,male,Dead,45,949,yes,no,LUAD
+TCGA-55-A494,Stage IB,1,481,"Adenocarcinoma, NOS",T2a,N0,MX,white,female,Alive,61,NA,no,no,LUAD
+TCGA-MP-A4T7,Stage IV,4,NA,"Adenocarcinoma, NOS",T2,N0,M1,not reported,female,Dead,75,167,no,no,LUAD
+TCGA-73-4675,Stage IIIA,3,40,"Adenocarcinoma, NOS",T3,N1,M0,white,male,Dead,59,922,yes,no,LUAD
+TCGA-55-6642,Stage IB,1,2449,"Adenocarcinoma, NOS",T2,N0,MX,white,male,Alive,63,NA,no,no,LUAD
+TCGA-05-4433,Stage IB,1,730,Adenocarcinoma with mixed subtypes,T2,N0,M0,not reported,male,Alive,82,NA,not reported,not reported,LUAD
+TCGA-86-8074,Stage IIA,2,24,"Papillary adenocarcinoma, NOS",T1b,N1,M0,white,female,Alive,62,NA,not reported,not reported,LUAD
+TCGA-73-4658,Stage IB,1,1600,"Adenocarcinoma, NOS",T2,N0,M0,white,female,Dead,80,1600,no,no,LUAD
+TCGA-55-8097,Stage IA,1,476,"Adenocarcinoma, NOS",T1a,N0,MX,white,female,Alive,60,NA,no,no,LUAD
+TCGA-L9-A444,Stage IA,1,307,"Adenocarcinoma, NOS",T1a,N0,MX,white,female,Alive,60,NA,no,no,LUAD
+TCGA-97-7941,Stage IA,1,484,Acinar cell carcinoma,T1b,N0,MX,white,female,Alive,72,NA,no,no,LUAD
+TCGA-44-7669,Stage IIA,2,NA,"Adenocarcinoma, NOS",T1b,N1,MX,black or african american,male,Dead,59,574,yes,no,LUAD
+TCGA-71-6725,Stage IB,1,256,"Papillary adenocarcinoma, NOS",T2,N0,M0,asian,female,Alive,48,NA,yes,yes,LUAD
+TCGA-55-8301,Stage IB,1,534,"Adenocarcinoma, NOS",T2a,N0,MX,white,male,Alive,58,NA,yes,yes,LUAD
+TCGA-73-4666,Stage IV,4,800,"Adenocarcinoma, NOS",T1,N0,M1,white,female,Alive,52,NA,yes,yes,LUAD
+TCGA-49-6761,Stage IIIA,3,354,"Adenocarcinoma, NOS",T1,N2,MX,white,female,Alive,68,NA,no,no,LUAD
+TCGA-05-4390,Stage IB,1,1126,Adenocarcinoma with mixed subtypes,T2,N0,M0,not reported,female,Alive,58,NA,yes,no,LUAD
+TCGA-55-8090,Stage IA,1,6,"Adenocarcinoma, NOS",T1a,N0,M0,white,male,Dead,80,598,no,no,LUAD
+TCGA-49-4514,Stage IA,1,1700,"Papillary adenocarcinoma, NOS",T1,N0,M0,white,female,Alive,79,NA,no,no,LUAD
+TCGA-NJ-A55A,Stage IB,1,15,Acinar cell carcinoma,T2,N0,M0,white,female,Alive,76,NA,no,no,LUAD
+TCGA-78-7158,Stage IIIB,3,NA,Adenocarcinoma with mixed subtypes,T4,N2,M0,white,female,Dead,59,179,yes,no,LUAD
+TCGA-49-4507,Stage IIIA,3,NA,"Adenocarcinoma, NOS",T3,N1,M0,white,female,Dead,73,268,yes,yes,LUAD
+TCGA-55-6978,Stage IIA,2,NA,"Adenocarcinoma, NOS",T2b,N0,MX,white,male,Dead,81,176,no,no,LUAD
+TCGA-44-2668,Stage IB,1,246,"Adenocarcinoma, NOS",T2,N0,M0,white,male,Dead,51,761,no,no,LUAD
+TCGA-86-7714,Stage IIIA,3,0,Adenocarcinoma with mixed subtypes,T1b,N2,M0,black or african american,female,Dead,61,625,no,no,LUAD
+TCGA-91-8499,Stage IA,1,36,"Adenocarcinoma, NOS",T1b,N0,MX,white,female,Alive,76,NA,no,no,LUAD
+TCGA-86-7953,Stage IA,1,997,"Bronchiolo-alveolar adenocarcinoma, NOS",T1b,N0,M0,white,female,Alive,69,NA,no,no,LUAD
+TCGA-55-6983,Stage IIB,2,2823,Mucinous adenocarcinoma,T2,N1,M0,white,male,Alive,81,NA,yes,no,LUAD
+TCGA-L9-A7SV,Stage IIA,2,565,"Adenocarcinoma, NOS",T2a,N1,M0,black or african american,male,Alive,69,NA,yes,no,LUAD
+TCGA-55-8620,Stage IV,4,66,"Adenocarcinoma, NOS",T1a,N1,M1b,white,male,Dead,60,375,no,yes,LUAD
+TCGA-69-8255,Stage IA,1,129,"Solid carcinoma, NOS",T1a,N0,M0,white,male,Alive,71,NA,no,no,LUAD
+TCGA-62-A46Y,Stage IIIA,3,NA,Adenocarcinoma with mixed subtypes,T2,N2,M0,white,female,Dead,70,414,yes,yes,LUAD
+TCGA-97-A4M1,Stage IA,1,601,Adenocarcinoma with mixed subtypes,T1a,N0,M0,white,female,Alive,52,NA,no,no,LUAD
+TCGA-86-8672,Stage IIB,2,15,"Adenocarcinoma, NOS",T3,N0,M0,white,male,Dead,59,19,no,no,LUAD
+TCGA-75-6207,Stage IIIA,3,NA,"Adenocarcinoma, NOS",T2,N2,M0,not reported,male,Dead,NA,NA,no,no,LUAD
+TCGA-78-7160,Stage IV,4,678,Adenocarcinoma with mixed subtypes,T4,N2,M1,white,male,Dead,61,697,yes,no,LUAD
+TCGA-NJ-A4YF,Stage IA,1,2161,Adenocarcinoma with mixed subtypes,T1,N0,M0,black or african american,female,Alive,50,NA,no,no,LUAD
+TCGA-44-6776,Stage IA,1,2616,"Adenocarcinoma, NOS",T1,N0,MX,white,female,Alive,60,NA,no,no,LUAD
+TCGA-78-7163,Stage IB,1,7248,"Adenocarcinoma, NOS",T2,N0,M0,white,male,Alive,60,NA,no,no,LUAD
+TCGA-62-A46R,Stage IB,1,NA,Adenocarcinoma with mixed subtypes,T2,N0,M0,white,female,Dead,54,1725,no,no,LUAD
+TCGA-55-6979,Stage IIB,2,NA,"Adenocarcinoma, NOS",T2,N1,M0,white,female,Dead,59,237,yes,yes,LUAD
+TCGA-86-8671,Stage IIB,2,839,"Papillary adenocarcinoma, NOS",T2b,N1,M0,white,female,Alive,72,NA,yes,no,LUAD
+TCGA-62-8395,Stage IIB,2,1216,Adenocarcinoma with mixed subtypes,T3,N0,M0,white,female,Alive,80,NA,yes,no,LUAD
+TCGA-64-1681,Stage IA,1,NA,"Adenocarcinoma, NOS",T1,N0,M0,white,female,Dead,61,1167,no,no,LUAD
+TCGA-97-A4M7,Stage IA,1,629,Adenocarcinoma with mixed subtypes,T1b,N0,M0,white,male,Alive,74,NA,no,no,LUAD
+TCGA-86-8281,Stage IA,1,0,"Adenocarcinoma, NOS",T1,NX,M0,white,male,Alive,75,NA,not reported,not reported,LUAD
+TCGA-49-4494,Stage IIIA,3,NA,"Adenocarcinoma, NOS",T3,N2,M0,white,male,Dead,77,1081,not reported,not reported,LUAD
+TCGA-55-8085,Stage IA,1,904,"Papillary adenocarcinoma, NOS",T1b,N0,M0,white,male,Alive,64,NA,no,no,LUAD
+TCGA-50-5946,Stage IA,1,1617,Adenocarcinoma with mixed subtypes,T1,N0,MX,white,male,Alive,62,NA,yes,yes,LUAD
+TCGA-44-6779,Stage IIB,2,NA,"Adenocarcinoma, NOS",T2,N1,MX,white,female,Dead,50,500,yes,no,LUAD
+TCGA-97-8172,Stage IB,1,545,Acinar cell carcinoma,T2a,N0,M0,white,female,Alive,75,NA,no,no,LUAD
+TCGA-50-5055,Stage IIA,2,785,Adenocarcinoma with mixed subtypes,T1,N1,M0,white,female,Dead,79,1830,yes,yes,LUAD
+TCGA-38-4628,Stage IIB,2,NA,"Adenocarcinoma, NOS",T2,N1,M0,white,female,Dead,65,1492,no,no,LUAD
+TCGA-80-5607,Stage IIB,2,NA,"Adenocarcinoma, NOS",T2,N1,M0,not reported,female,Alive,NA,NA,no,no,LUAD
+TCGA-86-A4P8,Stage IIIA,3,805,"Adenocarcinoma, NOS",T1b,N2,MX,white,female,Alive,59,NA,yes,yes,LUAD
+TCGA-91-8496,Stage IB,1,505,"Bronchiolo-alveolar carcinoma, non-mucinous",T2a,NX,MX,white,female,Alive,63,NA,no,no,LUAD
+TCGA-55-7281,Stage IA,1,872,"Adenocarcinoma, NOS",T1b,N0,M0,white,female,Alive,70,NA,yes,yes,LUAD
+TCGA-05-4424,Stage IIB,2,913,Adenocarcinoma with mixed subtypes,T3,N0,M0,not reported,male,Alive,70,NA,yes,yes,LUAD
+TCGA-55-7283,Stage IIIA,3,609,"Bronchiolo-alveolar carcinoma, non-mucinous",T3,N2,MX,white,female,Alive,76,NA,yes,no,LUAD
+TCGA-67-3772,Stage IB,1,573,"Adenocarcinoma, NOS",T2,N0,M0,white,female,Alive,82,NA,not reported,not reported,LUAD
+TCGA-78-7537,Stage IB,1,NA,Adenocarcinoma with mixed subtypes,T2,N0,M0,not reported,male,Dead,72,1622,no,no,LUAD
+TCGA-49-AARE,Stage IA,1,NA,"Adenocarcinoma, NOS",T1,N0,MX,black or african american,female,Dead,51,1229,yes,yes,LUAD
+TCGA-05-4403,Stage IB,1,578,Adenocarcinoma with mixed subtypes,T2,N0,M0,not reported,male,Alive,76,NA,not reported,not reported,LUAD
+TCGA-75-7025,Stage IB,1,3305,"Adenocarcinoma, NOS",T2,N0,M0,not reported,male,Alive,NA,NA,yes,no,LUAD
+TCGA-55-8091,Stage IB,1,600,"Adenocarcinoma, NOS",T2,N0,MX,white,male,Alive,74,NA,no,no,LUAD
+TCGA-05-4415,Stage IIIB,3,NA,Adenocarcinoma with mixed subtypes,T4,N2,M0,not reported,male,Dead,57,91,no,no,LUAD
+TCGA-75-5147,Stage IB,1,1333,"Bronchiolo-alveolar carcinoma, non-mucinous",T2,N0,M0,not reported,female,Alive,NA,NA,no,no,LUAD
+TCGA-78-7154,Stage IIIA,3,NA,"Adenocarcinoma, NOS",T3,N2,M0,white,male,Dead,72,593,not reported,not reported,LUAD
+TCGA-44-4112,Stage IB,1,722,"Adenocarcinoma, NOS",T2a,N0,M0,white,female,Dead,60,808,yes,no,LUAD
+TCGA-95-A4VK,Stage IIIA,3,651,Adenocarcinoma with mixed subtypes,T2b,N2,M0,white,female,Alive,74,NA,yes,yes,LUAD
+TCGA-05-4425,Stage IV,4,669,Adenocarcinoma with mixed subtypes,T2,N0,M1,not reported,female,Alive,70,NA,not reported,not reported,LUAD
+TCGA-53-7626,Stage IIA,2,NA,"Adenocarcinoma, NOS",T1,N1,M0,white,female,Dead,76,929,yes,no,LUAD
+TCGA-50-8457,Stage IA,1,1125,Adenocarcinoma with mixed subtypes,T1a,N0,M0,black or african american,female,Alive,63,NA,no,no,LUAD
+TCGA-91-6840,Stage IA,1,372,"Adenocarcinoma, NOS",T1b,N0,M0,white,female,Alive,59,NA,no,no,LUAD
+TCGA-49-4490,Stage IIIA,3,NA,"Adenocarcinoma, NOS",T3,N2,M0,white,female,Dead,45,385,yes,yes,LUAD
+TCGA-35-4123,Stage IA,1,182,"Adenocarcinoma, NOS",T1,N0,M0,white,male,Alive,38,NA,not reported,not reported,LUAD
+TCGA-38-4627,Stage IIA,2,NA,"Adenocarcinoma, NOS",T1b,N1,M0,white,female,Dead,64,1147,no,no,LUAD
+TCGA-44-8117,Stage IB,1,385,"Adenocarcinoma, NOS",T2a,N0,M0,white,female,Alive,54,NA,yes,no,LUAD
+TCGA-62-A46O,Stage IB,1,NA,"Adenocarcinoma, NOS",T2,N0,M0,white,female,Dead,65,1454,no,no,LUAD
+TCGA-05-4397,Stage IIB,2,NA,Adenocarcinoma with mixed subtypes,T2,N1,M0,not reported,male,Dead,65,731,not reported,not reported,LUAD
+TCGA-05-4434,Stage IV,4,NA,Adenocarcinoma with mixed subtypes,T4,N1,M1,not reported,female,Dead,67,457,not reported,not reported,LUAD
+TCGA-44-3918,Stage IA,1,1036,"Adenocarcinoma, NOS",T1,N0,M0,white,female,Alive,60,NA,yes,yes,LUAD
+TCGA-95-8494,Stage IIA,2,84,"Adenocarcinoma, NOS",T2a,N1,M0,white,male,Alive,67,NA,no,no,LUAD
+TCGA-55-7728,Stage IB,1,704,Mucinous adenocarcinoma,T2a,N0,MX,white,female,Alive,64,NA,no,no,LUAD
+TCGA-67-6215,Stage IB,1,174,"Adenocarcinoma, NOS",T2a,N0,M0,white,female,Alive,52,NA,yes,no,LUAD
+TCGA-93-A4JQ,Stage IA,1,526,Acinar cell carcinoma,T1b,N0,MX,white,male,Alive,49,NA,no,no,LUAD
+TCGA-86-6562,Stage IIA,2,0,"Adenocarcinoma, NOS",T2a,N1,M0,white,male,Dead,52,376,yes,no,LUAD
+TCGA-55-7815,Stage IB,1,773,"Adenocarcinoma, NOS",T2a,N0,MX,not reported,male,Alive,76,NA,yes,yes,LUAD
+TCGA-97-A4M0,Stage IB,1,652,Adenocarcinoma with mixed subtypes,T2a,N0,M0,white,female,Alive,60,NA,no,no,LUAD
+TCGA-55-8204,Stage IB,1,515,"Adenocarcinoma, NOS",T2a,N0,MX,white,female,Alive,87,NA,no,no,LUAD
+TCGA-MN-A4N1,Stage IIA,2,827,"Adenocarcinoma, NOS",T2a,N1,M0,black or african american,male,Alive,60,NA,no,no,LUAD
+TCGA-50-5942,Stage IA,1,1847,"Adenocarcinoma, NOS",T1,N0,M0,white,female,Alive,67,NA,no,yes,LUAD
+TCGA-05-4395,Stage IIIB,3,NA,Adenocarcinoma with mixed subtypes,T4,N2,M0,not reported,male,Dead,76,0,not reported,not reported,LUAD
+TCGA-62-A46S,Stage IB,1,NA,"Papillary adenocarcinoma, NOS",T2,N0,M0,white,male,Dead,73,1653,yes,no,LUAD
+TCGA-55-8619,Stage IIB,2,416,Mucinous adenocarcinoma,T3,N0,MX,white,female,Alive,72,NA,no,no,LUAD
+TCGA-69-7761,Stage IB,1,186,Acinar cell carcinoma,T2a,N0,MX,white,male,Alive,84,NA,yes,no,LUAD
+TCGA-05-5715,Stage IB,1,62,Adenocarcinoma with mixed subtypes,T2a,N0,M0,not reported,female,Alive,69,NA,not reported,not reported,LUAD
+TCGA-50-6593,Stage IIIA,3,NA,Adenocarcinoma with mixed subtypes,T1,N2,M0,white,female,Dead,49,336,no,yes,LUAD
+TCGA-55-8208,Stage IA,1,674,"Adenocarcinoma, NOS",T1b,N0,M0,white,female,Alive,73,NA,no,yes,LUAD
+TCGA-78-8660,Stage IIB,2,NA,"Adenocarcinoma, NOS",T2,N1,M0,not reported,male,Dead,69,321,no,yes,LUAD
+TCGA-44-2666,Stage IB,1,97,"Adenocarcinoma, NOS",T2,N0,M0,white,male,Dead,43,97,no,no,LUAD
+TCGA-J2-A4AG,Stage IA,1,988,"Adenocarcinoma, NOS",T1b,N0,MX,white,female,Alive,66,NA,no,no,LUAD
+TCGA-50-5933,Stage IIIB,3,2370,"Adenocarcinoma, NOS",T4,N2,M0,white,male,Dead,72,2393,yes,yes,LUAD
+TCGA-97-A4LX,Stage IB,1,614,Adenocarcinoma with mixed subtypes,T2a,N0,M0,white,male,Alive,81,NA,no,no,LUAD
+TCGA-78-7156,Stage IV,4,NA,Adenocarcinoma with mixed subtypes,T4,N1,M1,white,male,Dead,62,976,no,no,LUAD
+TCGA-86-8669,Stage IA,1,938,"Adenocarcinoma, NOS",T1b,N0,M0,white,male,Alive,64,NA,yes,no,LUAD
+TCGA-55-A493,Stage IB,1,28,"Adenocarcinoma, NOS",T2a,N0,M0,white,female,Alive,54,NA,not reported,not reported,LUAD
+TCGA-78-7539,Stage IIA,2,791,Adenocarcinoma with mixed subtypes,T2b,N0,M0,white,female,Alive,75,NA,yes,yes,LUAD
+TCGA-MP-A4T8,Stage IIIA,3,NA,"Adenocarcinoma, NOS",T2,N2,M0,not reported,male,Dead,68,161,yes,no,LUAD
+TCGA-NJ-A55R,Stage IA,1,603,"Solid carcinoma, NOS",T1b,N0,MX,white,male,Alive,67,NA,no,no,LUAD
+TCGA-55-6985,Stage IB,1,1233,"Adenocarcinoma, NOS",T2,N0,MX,white,female,Alive,58,NA,no,no,LUAD
+TCGA-55-6970,Stage IIIA,3,NA,"Papillary adenocarcinoma, NOS",T2,N2,MX,white,female,Dead,67,464,yes,yes,LUAD
+TCGA-62-A470,Stage IB,1,NA,Acinar cell carcinoma,T2,N0,M0,white,male,Dead,84,1194,no,yes,LUAD
+TCGA-55-6543,Stage IA,1,435,"Bronchio-alveolar carcinoma, mucinous",T1b,N0,MX,white,female,Alive,60,NA,no,no,LUAD
+TCGA-50-7109,Stage IA,1,255,"Adenocarcinoma, NOS",T1,N0,M0,white,male,Dead,60,308,no,no,LUAD
+TCGA-05-4432,Stage IIB,2,761,Adenocarcinoma with mixed subtypes,T2,N1,M0,not reported,male,Alive,66,NA,yes,no,LUAD
+TCGA-93-7348,Stage IA,1,531,"Adenocarcinoma, NOS",T1a,N0,MX,white,female,Alive,75,NA,no,no,LUAD
+TCGA-64-1679,Stage IIIA,3,2488,"Adenocarcinoma, NOS",T1,N2,M0,white,female,Alive,58,NA,yes,no,LUAD
+TCGA-35-3615,Stage IB,1,14,"Adenocarcinoma, NOS",T2,N0,M0,white,male,Alive,57,NA,not reported,not reported,LUAD
+TCGA-55-6968,Stage IV,4,NA,"Adenocarcinoma, NOS",T1,N0,M1,white,male,Dead,61,1293,yes,yes,LUAD
+TCGA-44-7671,Stage IB,1,889,Adenocarcinoma with mixed subtypes,T2a,N0,M0,black or african american,male,Alive,64,NA,no,no,LUAD
+TCGA-99-8025,Stage IIIA,3,1060,"Adenocarcinoma, NOS",T3,N2,M0,black or african american,female,Alive,72,NA,yes,no,LUAD
+TCGA-38-6178,Stage IIIA,3,448,"Adenocarcinoma, NOS",T2b,N2,NA,white,female,Alive,70,NA,yes,no,LUAD
+TCGA-44-A479,Stage IB,1,486,"Adenocarcinoma, NOS",T2,N0,MX,black or african american,female,Alive,73,NA,no,no,LUAD
+TCGA-67-3770,Stage IA,1,610,"Adenocarcinoma, NOS",T1,N0,M0,white,female,Alive,70,NA,not reported,not reported,LUAD
+TCGA-MP-A4TF,Stage IIA,2,NA,"Adenocarcinoma, NOS",T2b,N0,M0,white,female,Dead,58,336,yes,yes,LUAD
+TCGA-78-7161,Stage IIB,2,215,Adenocarcinoma with mixed subtypes,T3,N0,M0,white,female,Dead,69,291,yes,no,LUAD
+TCGA-50-5936,Stage IIIA,3,NA,Mucinous adenocarcinoma,T2,N2,M0,white,male,Dead,58,257,no,no,LUAD
+TCGA-69-8254,NA,NA,409,Adenocarcinoma with mixed subtypes,T2b,NA,NA,white,male,Alive,85,NA,no,no,LUAD
+TCGA-86-8075,Stage IB,1,479,"Adenocarcinoma, NOS",T2,N0,M0,white,female,Dead,66,694,yes,no,LUAD
+TCGA-4B-A93V,Stage IA,1,254,"Adenocarcinoma, NOS",T1b,N0,M0,black or african american,female,Dead,52,300,no,yes,LUAD
+TCGA-86-8668,Stage IA,1,423,"Bronchio-alveolar carcinoma, mucinous",T1b,N0,M0,white,female,Alive,61,NA,no,no,LUAD
+TCGA-69-7760,Stage IIB,2,202,Adenocarcinoma with mixed subtypes,T3,N0,M0,white,male,Alive,73,NA,yes,no,LUAD
+TCGA-44-6148,Stage IA,1,704,Mucinous adenocarcinoma,T1b,N0,M0,white,male,Alive,60,NA,no,no,LUAD
+TCGA-64-1677,Stage IIIA,3,NA,"Adenocarcinoma, NOS",T2,N2,M0,white,female,Dead,77,628,yes,no,LUAD
+TCGA-50-5941,Stage IIIA,3,1474,"Adenocarcinoma, NOS",T2a,N2,M0,white,female,Alive,55,NA,yes,no,LUAD
+TCGA-05-5420,Stage IIIA,3,457,"Adenocarcinoma, NOS",T2,N2,M0,not reported,male,Alive,67,NA,not reported,not reported,LUAD
+TCGA-44-2657,Stage IB,1,1351,"Adenocarcinoma, NOS",T2,NX,M0,white,female,Alive,74,NA,no,no,LUAD
+TCGA-MP-A4SY,Stage IIB,2,NA,"Adenocarcinoma, NOS",T2,N1,M0,white,male,Dead,61,1501,yes,no,LUAD
+TCGA-69-7978,Stage IIB,2,134,Adenocarcinoma with mixed subtypes,T2b,N1,MX,white,male,Alive,59,NA,no,no,LUAD
+TCGA-55-8621,Stage IA,1,515,"Adenocarcinoma, NOS",T1a,N0,MX,white,female,Alive,75,NA,no,no,LUAD
+TCGA-86-A456,Stage IA,1,896,"Papillary adenocarcinoma, NOS",T1a,N0,M0,asian,female,Alive,78,NA,not reported,no,LUAD
+TCGA-55-8505,Stage IIIA,3,440,"Adenocarcinoma, NOS",T1a,N2,MX,white,male,Alive,62,NA,yes,no,LUAD
+TCGA-MP-A5C7,Stage IB,1,2248,"Adenocarcinoma, NOS",T2,N0,M0,white,female,Alive,76,NA,no,no,LUAD
+TCGA-64-5778,Stage IB,1,1305,"Bronchiolo-alveolar carcinoma, non-mucinous",T2,N0,M0,white,male,Alive,60,NA,no,yes,LUAD
+TCGA-55-7726,Stage IA,1,652,"Adenocarcinoma, NOS",T1b,N0,MX,white,female,Alive,72,NA,no,no,LUAD
+TCGA-MP-A4TK,Stage IIB,2,NA,"Adenocarcinoma, NOS",T2,N1,MX,not reported,female,Dead,56,582,yes,yes,LUAD
+TCGA-L9-A8F4,Stage IB,1,476,"Adenocarcinoma, NOS",T2a,N0,MX,black or african american,female,Alive,64,NA,no,yes,LUAD
+TCGA-49-AAR2,Stage IB,1,2224,Acinar cell carcinoma,T2,N0,MX,black or african american,male,Alive,64,NA,yes,no,LUAD
+TCGA-44-A4SS,Stage IA,1,415,"Adenocarcinoma, NOS",T1b,N0,M0,white,male,Alive,73,NA,no,no,LUAD
+TCGA-91-6828,Stage IA,1,323,"Adenocarcinoma, NOS",T1a,N0,M0,white,male,Alive,70,NA,no,no,LUAD
+TCGA-05-4250,Stage IIIA,3,NA,"Adenocarcinoma, NOS",T3,N1,M0,not reported,female,Dead,79,121,not reported,not reported,LUAD
+TCGA-99-8033,Stage IV,4,170,"Adenocarcinoma, NOS",TX,NX,M1,white,female,Dead,74,656,yes,yes,LUAD
+TCGA-55-8205,Stage IIA,2,599,"Adenocarcinoma, NOS",T2b,N0,M0,white,female,Alive,76,NA,yes,yes,LUAD
+TCGA-44-2665,Stage IIB,2,1301,"Adenocarcinoma, NOS",T2,N1,M0,white,female,Alive,55,NA,yes,no,LUAD
+TCGA-78-7155,Stage IB,1,NA,"Adenocarcinoma, NOS",T2,N0,M0,white,male,Dead,68,1171,not reported,not reported,LUAD
+TCGA-91-6847,Stage IB,1,842,"Adenocarcinoma, NOS",T2,N0,MX,white,female,Alive,62,NA,no,yes,LUAD
+TCGA-64-5774,Stage IB,1,2676,"Adenocarcinoma, NOS",T2,N0,M0,white,male,Alive,60,NA,no,no,LUAD
+TCGA-49-AARN,Stage IA,1,NA,"Adenocarcinoma, NOS",T1,N0,MX,black or african american,female,Dead,56,1135,no,no,LUAD
+TCGA-50-5049,Stage IA,1,3094,"Adenocarcinoma, NOS",T2,N0,M0,white,male,Alive,70,NA,no,yes,LUAD
+TCGA-55-8616,Stage IB,1,48,"Adenocarcinoma, NOS",T2a,N0,M0,white,female,Alive,58,NA,not reported,not reported,LUAD
+TCGA-MP-A4TC,Stage IIIA,3,NA,"Adenocarcinoma, NOS",T1,N2,M0,white,male,Dead,77,74,yes,no,LUAD
+TCGA-78-7146,Stage IIIA,3,NA,Adenocarcinoma with mixed subtypes,T2,N2,M0,white,female,Dead,71,173,no,no,LUAD
+TCGA-05-4384,Stage IIIA,3,426,Adenocarcinoma with mixed subtypes,T2,N2,M0,not reported,male,Alive,66,NA,yes,yes,LUAD
+TCGA-75-6205,Stage IB,1,NA,"Adenocarcinoma, NOS",T2a,N0,M0,not reported,female,Dead,NA,NA,no,no,LUAD
+TCGA-55-8203,Stage IA,1,547,"Adenocarcinoma, NOS",T1b,N0,M0,white,female,Alive,69,NA,no,no,LUAD
+TCGA-50-6591,Stage IV,4,NA,"Adenocarcinoma, NOS",T2,N0,M1,white,female,Dead,63,119,no,no,LUAD
+TCGA-44-7670,Stage IIA,2,882,"Adenocarcinoma, NOS",T1b,N1,M0,white,female,Alive,47,NA,yes,no,LUAD
+TCGA-05-5425,Stage IIB,2,882,Adenocarcinoma with mixed subtypes,T2b,N1,M0,not reported,male,Alive,68,NA,yes,yes,LUAD
+TCGA-49-AARR,Stage IA,1,4992,"Adenocarcinoma, NOS",T1,N0,MX,black or african american,male,Alive,68,NA,no,no,LUAD
+TCGA-49-6745,Stage IIIA,3,522,"Papillary adenocarcinoma, NOS",T2a,N2,M0,white,male,Alive,82,NA,yes,no,LUAD
+TCGA-86-7711,Stage IIA,2,630,"Adenocarcinoma, NOS",T2a,N1,M0,white,male,Dead,70,1046,yes,no,LUAD
+TCGA-97-8552,Stage I,1,626,"Bronchiolo-alveolar carcinoma, non-mucinous",T1a,N0,MX,white,female,Alive,55,NA,no,no,LUAD
+TCGA-50-8459,Stage IIB,2,1119,Mucinous adenocarcinoma,T3,N0,M0,white,male,Alive,68,NA,yes,no,LUAD
+TCGA-93-A4JN,Stage IV,4,718,Acinar cell carcinoma,T2a,N0,M1a,white,male,Alive,71,NA,yes,no,LUAD
+TCGA-95-A4VP,Stage IIIA,3,605,Acinar cell carcinoma,T2b,N2,M0,white,female,Alive,66,NA,yes,yes,LUAD
+TCGA-86-A4P7,Stage IB,1,415,"Adenocarcinoma, NOS",T2a,N0,M0,white,female,Alive,63,NA,no,no,LUAD
+TCGA-50-5045,NA,NA,NA,"Adenocarcinoma, NOS",T2,N1,M0,black or african american,female,Dead,57,2174,yes,yes,LUAD
+TCGA-69-8453,Stage IIB,2,813,Mucinous adenocarcinoma,T3,N0,MX,white,male,Alive,77,NA,yes,yes,LUAD
+TCGA-05-4396,Stage IIIB,3,NA,Adenocarcinoma with mixed subtypes,T4,N1,M0,not reported,male,Dead,76,303,not reported,not reported,LUAD
+TCGA-55-7725,Stage IA,1,442,"Adenocarcinoma, NOS",T1a,N0,MX,white,female,Alive,68,NA,no,no,LUAD
+TCGA-55-6975,Stage IIB,2,NA,Adenocarcinoma with mixed subtypes,T2,N1,M0,white,male,Dead,61,118,no,no,LUAD
+TCGA-78-7150,Stage IIB,2,NA,"Adenocarcinoma, NOS",T2,N1,M0,white,male,Dead,59,666,no,no,LUAD
+TCGA-49-4512,Stage IIIA,3,157,"Adenocarcinoma, NOS",T2,N2,MX,white,female,Dead,69,905,yes,no,LUAD
+TCGA-55-8206,Stage IA,1,888,"Adenocarcinoma, NOS",T1b,N0,M0,white,male,Alive,56,NA,no,no,LUAD
+TCGA-05-4417,Stage IB,1,455,Adenocarcinoma with mixed subtypes,T2,N0,M0,not reported,female,Alive,51,NA,no,no,LUAD
+TCGA-55-A491,Stage IA,1,626,"Adenocarcinoma, NOS",T1b,N0,MX,white,female,Alive,81,NA,no,no,LUAD
+TCGA-49-6743,Stage IIIA,3,1621,"Clear cell adenocarcinoma, NOS",T1,N2,MX,white,female,Alive,81,NA,yes,no,LUAD
+TCGA-05-4389,Stage IA,1,1369,Adenocarcinoma with mixed subtypes,T1,N0,M0,not reported,male,Alive,70,NA,no,no,LUAD
+TCGA-86-7701,Stage IV,4,947,"Adenocarcinoma, NOS",T2,N0,M1,white,male,Alive,66,NA,yes,yes,LUAD
+TCGA-55-8513,Stage IIB,2,791,Mucinous adenocarcinoma,T3,N0,MX,white,female,Alive,77,NA,yes,no,LUAD
+TCGA-55-1592,Stage IA,1,NA,"Adenocarcinoma, NOS",T2,N0,M0,white,male,Dead,65,701,no,no,LUAD
+TCGA-95-7948,Stage IB,1,476,Adenocarcinoma with mixed subtypes,T2a,N0,M0,white,female,Alive,42,NA,no,no,LUAD
+TCGA-44-7660,Stage IB,1,592,"Adenocarcinoma, NOS",T2,N0,MX,white,male,Alive,72,NA,yes,no,LUAD
+TCGA-69-7979,Stage IB,1,408,Acinar cell carcinoma,T2a,N0,MX,white,female,Alive,71,NA,no,no,LUAD
+TCGA-L9-A743,Stage IIA,2,664,"Adenocarcinoma, NOS",T2a,N1,M0,black or african american,male,Alive,56,NA,yes,no,LUAD
+TCGA-64-5815,Stage IIB,2,866,Adenocarcinoma with mixed subtypes,T2,N1,M0,white,male,Alive,74,NA,yes,no,LUAD
+TCGA-55-7574,Stage IB,1,95,"Adenocarcinoma, NOS",T2a,N0,M0,white,female,Dead,64,995,yes,yes,LUAD
