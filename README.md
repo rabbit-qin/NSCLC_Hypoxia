@@ -7,3 +7,9 @@
 - `Hypoxia_scoresTCGA` and `Hypoxia_scoresCCLE`: The hypoxia scores in the TCGA and CCLE datasets calculated by the NC method;
 - `NC2NMF_cluster3TCGA.csv` and `NC2NMF_cluster3CCLE.csv`: By integrating the two methods, classify the samples in the TCGA and CCLE datasets.
 
+### NMFScore:
+- `NMF_geneset.csv`: The hypoxia gene set used in the NMF method;
+- `cluster2Tcga.csv` and `cluster3Ccle.csv`: The hypoxia scores in the TCGA and CCLE datasets calculated by the NMF method;
+
+### rawData:
+####Gene expression data, PDUI value data, survival information data, and drug information data in the TCGA and CCLE datasets; PDUI value data in the single cell datasets.
