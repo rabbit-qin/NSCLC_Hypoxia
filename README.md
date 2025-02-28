@@ -1,6 +1,7 @@
 # The importance of hypoxia on alternative polyadenylation and tumor microenvironmental alterations in non-small cell lung cancer
 ### Data:
-- `APAEventsDiff`: The differentially alternative polyadenylation (APA) events calculated in The Cancer Genome Atlas (TCGA) and the Cancer Cell Line Encyclopedia (CCLE) datasets.
+### APAEventsDiff`:
+- The differentially alternative polyadenylation (APA) events calculated in The Cancer Genome Atlas (TCGA) and the Cancer Cell Line Encyclopedia (CCLE) datasets.
 
 ### NCScore:
 - `Hypoxia_scores.gmt`: The hypoxia gene set used in the NC method;
@@ -13,3 +14,13 @@
 
 ### rawData:
 - Gene expression data, PDUI value data, survival information data, and drug information data in the TCGA and CCLE datasets; PDUI value data in the single cell datasets.
+
+### Codes:
+### bulk&ccle:
+- The code used for analyzing the TCGA and CCLE datasets.
+
+### singleCell:
+- The code used for analyzing the single cell datasets.
+
+### spatialTranscriptome:
+- The code used for analyzing the spatial transcriptome datasets.
